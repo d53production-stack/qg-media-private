@@ -1,0 +1,3035 @@
+[
+ {
+  "asset_id": "black_friday_lab:logos/qg-mark-black.png",
+  "path": "black_friday_lab/logos/qg-mark-black.png",
+  "sha256": "f3bee78f597f068a9f8fb443b4ccb5e49e7b3643fb575ccba3bf866695bc832e",
+  "bytes": 38192,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-mark-black.png",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:logos/qg-mark-black.svg",
+  "path": "black_friday_lab/logos/qg-mark-black.svg",
+  "sha256": "85d149996c77067adac64c1ffa6b7a78993ba9e86d23fa964829a6a16c6b1812",
+  "bytes": 1904,
+  "mime": "image/svg+xml",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-mark-black.svg",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:logos/qg-mark-white.png",
+  "path": "black_friday_lab/logos/qg-mark-white.png",
+  "sha256": "4b0cdd34e0e8c1ee126cab9be890f99439d2a779c3a838f13d1deed96e8530bb",
+  "bytes": 35844,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-mark-white.png",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:logos/qg-mark-white.svg",
+  "path": "black_friday_lab/logos/qg-mark-white.svg",
+  "sha256": "3d212c7b6aeb26320318acc42b1c97d1135263415f34f8b826207774367ad3f1",
+  "bytes": 1967,
+  "mime": "image/svg+xml",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-mark-white.svg",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:logos/qg-word-black.png",
+  "path": "black_friday_lab/logos/qg-word-black.png",
+  "sha256": "7ee3829490b3fee5fd4e9d1fd43836150cfd9a5c28ccc084049f9398c0b8c3db",
+  "bytes": 26429,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-word-black.png",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:logos/qg-word-black.svg",
+  "path": "black_friday_lab/logos/qg-word-black.svg",
+  "sha256": "31514ba5f1104dda55996186ec9007041fe50d099e54d2ed77a35f467624ebda",
+  "bytes": 5222,
+  "mime": "image/svg+xml",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-word-black.svg",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:logos/qg-word-white.png",
+  "path": "black_friday_lab/logos/qg-word-white.png",
+  "sha256": "0052bbe079ad5aea12b5da91405acfe458b16980c3f7d8f31faab87b416d1a4b",
+  "bytes": 24394,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-word-white.png",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:logos/qg-word-white.svg",
+  "path": "black_friday_lab/logos/qg-word-white.svg",
+  "sha256": "ca69cc22bbbb9ebb37305a69aae2394b20ab4029994e019ebcbeac5ef815a154",
+  "bytes": 5398,
+  "mime": "image/svg+xml",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/logos/qg-word-white.svg",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:08dab8d9d5e0289dada9ee06008c603a",
+  "path": "black_friday_lab/refs/08dab8d9d5e0289dada9ee06008c603a.png",
+  "sha256": "36f5cd3c26c23db2c275570e58c781b933ed26010729948c865f8c67424d940d",
+  "bytes": 489079,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/08dab8d9d5e0289dada9ee06008c603a",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:0a8229495ed79462599da22020485827",
+  "path": "black_friday_lab/refs/0a8229495ed79462599da22020485827.png",
+  "sha256": "3a588c77e7b02a566af79a0c7a9485bf25046f62ac36ee3c8b2794b4d7ba2872",
+  "bytes": 137323,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/0a8229495ed79462599da22020485827",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:1a0ed7e7a25caba30f3add2649954eba",
+  "path": "black_friday_lab/refs/1a0ed7e7a25caba30f3add2649954eba.png",
+  "sha256": "f8634472d51b7e24bec4b6b8579ca8d7b46c0f4b09e4746a876a220b436248c2",
+  "bytes": 562252,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/1a0ed7e7a25caba30f3add2649954eba",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:1abfcb6b2ade869d606e5f6438fa852a",
+  "path": "black_friday_lab/refs/1abfcb6b2ade869d606e5f6438fa852a.png",
+  "sha256": "3bcb0c72616d8a5f4121fb315e581343c034902f20a70a979218091f4d05adf5",
+  "bytes": 476906,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/1abfcb6b2ade869d606e5f6438fa852a",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:23bc33e7fcd1595ef01522e3eedd0cb9",
+  "path": "black_friday_lab/refs/23bc33e7fcd1595ef01522e3eedd0cb9.png",
+  "sha256": "cd2f354afbd82ddb5dcdacca7fded49a01afa2170d85f9f58345fbb630332f61",
+  "bytes": 105282,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/23bc33e7fcd1595ef01522e3eedd0cb9",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:3062f9c18ec7987b47ebc3584fc6a09d",
+  "path": "black_friday_lab/refs/3062f9c18ec7987b47ebc3584fc6a09d.png",
+  "sha256": "497fd9e7f0eacd3547ff4f8d894cda8f24e482f114c694afb211ae88aae18b61",
+  "bytes": 143535,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/3062f9c18ec7987b47ebc3584fc6a09d",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:4cbbcd1aac48d63ea0c393f53f4147b3",
+  "path": "black_friday_lab/refs/4cbbcd1aac48d63ea0c393f53f4147b3.png",
+  "sha256": "7d99201a956a3d3a044aaa3c0d41c6ae83fc6623b90fba535fa04cbd7ef07c16",
+  "bytes": 443657,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/4cbbcd1aac48d63ea0c393f53f4147b3",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:675561424f80d869ff10f82f6fc3e7a3",
+  "path": "black_friday_lab/refs/675561424f80d869ff10f82f6fc3e7a3.png",
+  "sha256": "863cf5b70c58ec0bb455ae9ffb66ceec1247642358ef5821bff06d654a8bbdda",
+  "bytes": 422156,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/675561424f80d869ff10f82f6fc3e7a3",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:7bcc6b3f3475aecd7f7734654f27df6a",
+  "path": "black_friday_lab/refs/7bcc6b3f3475aecd7f7734654f27df6a.png",
+  "sha256": "1cb615b1fd2206e381a420f89c0021b62ece396c47591a7c6884874615a08216",
+  "bytes": 418987,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/7bcc6b3f3475aecd7f7734654f27df6a",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:99d16c6bdc63d51944796884d3353fbb",
+  "path": "black_friday_lab/refs/99d16c6bdc63d51944796884d3353fbb.png",
+  "sha256": "d66a3f047e4c16620d6bf88872fb39b7241e26c687e9047c143b6e02c7242aa1",
+  "bytes": 592077,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/99d16c6bdc63d51944796884d3353fbb",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:ad901e9cd5522bbdaf2af2e96d4cb8c1",
+  "path": "black_friday_lab/refs/ad901e9cd5522bbdaf2af2e96d4cb8c1.png",
+  "sha256": "497fd9e7f0eacd3547ff4f8d894cda8f24e482f114c694afb211ae88aae18b61",
+  "bytes": 143535,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/ad901e9cd5522bbdaf2af2e96d4cb8c1",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:cd7abeee42a06af1098ff7ad55d5bf37",
+  "path": "black_friday_lab/refs/cd7abeee42a06af1098ff7ad55d5bf37.png",
+  "sha256": "2438cf1d7ca9ba9091c02ce17a136c7a5b05a13e342d1623e9121a41c6c5b907",
+  "bytes": 134523,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/cd7abeee42a06af1098ff7ad55d5bf37",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:e143035ae07c4647be3b7bf60b09eee3",
+  "path": "black_friday_lab/refs/e143035ae07c4647be3b7bf60b09eee3.png",
+  "sha256": "5ed7ffb8d4aa07f0bfa9f71d2b50bab62fc8b22aefb39adac58cd4ea9bd0781c",
+  "bytes": 374239,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/e143035ae07c4647be3b7bf60b09eee3",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:e36a0d4532bdd64855ab3bfc97c631ca",
+  "path": "black_friday_lab/refs/e36a0d4532bdd64855ab3bfc97c631ca.png",
+  "sha256": "2438cf1d7ca9ba9091c02ce17a136c7a5b05a13e342d1623e9121a41c6c5b907",
+  "bytes": 134523,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/e36a0d4532bdd64855ab3bfc97c631ca",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "black_friday_lab:blob:e697bfa6ce647ada3161eead84f82471",
+  "path": "black_friday_lab/refs/e697bfa6ce647ada3161eead84f82471.png",
+  "sha256": "f0ce475738f93b034bfcff0c8ae8bcdb7f2d6bada8daf427246806ea7cdce721",
+  "bytes": 444432,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/ae7efe4d-e6fa-48ba-852f-3426239be702/_blob/e697bfa6ce647ada3161eead84f82471",
+  "kind": "reference"
+ },
+ {
+  "asset_id": "copy_studio:blob:00819bc139c90bf3ca1a4e24e01720e5",
+  "path": "copy_studio/stills/00819bc139c90bf3ca1a4e24e01720e5.png",
+  "sha256": "b12447bfe6a04b2f647ae66fed373f1f8731e1778d3661a20f17c457c9a8a0c3",
+  "bytes": 596803,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/00819bc139c90bf3ca1a4e24e01720e5",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:00b05661c356aada59b8f018447bfa33",
+  "path": "copy_studio/stills/00b05661c356aada59b8f018447bfa33.jpg",
+  "sha256": "45d58f01d40a7629ee2e350ee06a563623eb40a8657b00933e478e87150efe25",
+  "bytes": 40662,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/00b05661c356aada59b8f018447bfa33",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:034a3a2096909ff12d5f237abfec09f0",
+  "path": "copy_studio/stills/034a3a2096909ff12d5f237abfec09f0.jpg",
+  "sha256": "e13c348641f5ebc89197dd5a9111264e4b99a37fe2c4c5a2ed2c73e83dce0e37",
+  "bytes": 30874,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/034a3a2096909ff12d5f237abfec09f0",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:0a317d707aec41e95c5cc24171b70d0f",
+  "path": "copy_studio/stills/0a317d707aec41e95c5cc24171b70d0f.png",
+  "sha256": "69f00f0acfa52fb912913c5c7c275019cc7f0117317aae6bc6a289111392f50b",
+  "bytes": 304502,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/0a317d707aec41e95c5cc24171b70d0f",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:0bb97944bef21edf2d2abc790a4372f1",
+  "path": "copy_studio/stills/0bb97944bef21edf2d2abc790a4372f1.png",
+  "sha256": "96aca4f0b4b30eb11a96a35a55e1ae2005fd24f1014171ff4c50b5b1e915a3d6",
+  "bytes": 561810,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/0bb97944bef21edf2d2abc790a4372f1",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:0c5b42fb5a1db3afb668470e922533a2",
+  "path": "copy_studio/stills/0c5b42fb5a1db3afb668470e922533a2.png",
+  "sha256": "fa1c88ad873b8b7cd6755e56e729ae931b837327e2e1690ebaa7db0a0d922cf5",
+  "bytes": 531489,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/0c5b42fb5a1db3afb668470e922533a2",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:1a4f103fe6a103b55882bb07e6b733c1",
+  "path": "copy_studio/stills/1a4f103fe6a103b55882bb07e6b733c1.png",
+  "sha256": "5923db06971a5b2dad1749ad1852845535afcdc8e07e2ffa210954eb0805a87b",
+  "bytes": 278668,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/1a4f103fe6a103b55882bb07e6b733c1",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:20b5aa7e62b57c9f7421430ba4fa7122",
+  "path": "copy_studio/stills/20b5aa7e62b57c9f7421430ba4fa7122.png",
+  "sha256": "3bcb0c72616d8a5f4121fb315e581343c034902f20a70a979218091f4d05adf5",
+  "bytes": 476906,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/20b5aa7e62b57c9f7421430ba4fa7122",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:24efa1c012fa10042e3bf27fc043ca89",
+  "path": "copy_studio/stills/24efa1c012fa10042e3bf27fc043ca89.jpg",
+  "sha256": "6eaf69ed9a04cee7c9eba6b5c84d4788a4a17a21c26a3edf39bcb667c6a52efb",
+  "bytes": 39431,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/24efa1c012fa10042e3bf27fc043ca89",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:27ab1af9c24c713dd602703d06e56bde",
+  "path": "copy_studio/stills/27ab1af9c24c713dd602703d06e56bde.jpg",
+  "sha256": "bcdf39412a05071651cbfb7386a1421ba7cd3868da37d15a4cd0965aa3775ad4",
+  "bytes": 28714,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/27ab1af9c24c713dd602703d06e56bde",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:2eb391db2f46481cd07956bd9d804f4c",
+  "path": "copy_studio/stills/2eb391db2f46481cd07956bd9d804f4c.jpg",
+  "sha256": "39323bacf0595b26710fa711cb2e0f42cb3d8b93fdbebf1e7df673affd3de61c",
+  "bytes": 27629,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/2eb391db2f46481cd07956bd9d804f4c",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:3279f3f556d1614702d7171842f416de",
+  "path": "copy_studio/stills/3279f3f556d1614702d7171842f416de.jpg",
+  "sha256": "b5307527c1794368a94d26b62f9e5823040db162fbe990089bc8f2c996068c38",
+  "bytes": 31025,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/3279f3f556d1614702d7171842f416de",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:44aaf0401eeac65c487268ae4d646942",
+  "path": "copy_studio/stills/44aaf0401eeac65c487268ae4d646942.jpg",
+  "sha256": "4431ed56a7b09b1d8ee725097f0090cc5e246f78d81095692f21529d3d46c38e",
+  "bytes": 38536,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/44aaf0401eeac65c487268ae4d646942",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:466732a682e6e3b5260c6d304ba18aaf",
+  "path": "copy_studio/stills/466732a682e6e3b5260c6d304ba18aaf.png",
+  "sha256": "d66a3f047e4c16620d6bf88872fb39b7241e26c687e9047c143b6e02c7242aa1",
+  "bytes": 592077,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/466732a682e6e3b5260c6d304ba18aaf",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:49509fb6f19437a507ba9c8774289702",
+  "path": "copy_studio/stills/49509fb6f19437a507ba9c8774289702.png",
+  "sha256": "8bd44049c2177a10fa9d8101985cc0b6f9a83e89202b5d6b4dd309c5c5584c26",
+  "bytes": 805929,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/49509fb6f19437a507ba9c8774289702",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:4a883559b6c6c476a225272155c51229",
+  "path": "copy_studio/stills/4a883559b6c6c476a225272155c51229.jpg",
+  "sha256": "d04b06e1db37f4d78d9951841c501cafa2572ff66b0078260a04c2b3af3bc4fd",
+  "bytes": 31758,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/4a883559b6c6c476a225272155c51229",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:55ad031c36767e0b48f7a5084e175d1c",
+  "path": "copy_studio/stills/55ad031c36767e0b48f7a5084e175d1c.png",
+  "sha256": "a09d5f9c2aaf0b48ad4b6647daebd390ec4b949b4350a925009e270b593bc03a",
+  "bytes": 514667,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/55ad031c36767e0b48f7a5084e175d1c",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:56a585a41d833aa9c3e5f971b4cb2acf",
+  "path": "copy_studio/stills/56a585a41d833aa9c3e5f971b4cb2acf.png",
+  "sha256": "5e2fe91292b0d1702dd4755a55b9d377d15f712ea2deb6d8961e5e29dd79b059",
+  "bytes": 500413,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/56a585a41d833aa9c3e5f971b4cb2acf",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:581888fee01502f006887caaf8427969",
+  "path": "copy_studio/stills/581888fee01502f006887caaf8427969.jpg",
+  "sha256": "74ec7311426d3ae6b7595217c3e2a7ec95a1059144b82ebdec2ff9394cb6bf6a",
+  "bytes": 35145,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/581888fee01502f006887caaf8427969",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:58e712998fedfd66e9f6154a255f02a4",
+  "path": "copy_studio/stills/58e712998fedfd66e9f6154a255f02a4.png",
+  "sha256": "7d99201a956a3d3a044aaa3c0d41c6ae83fc6623b90fba535fa04cbd7ef07c16",
+  "bytes": 443657,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/58e712998fedfd66e9f6154a255f02a4",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:5b52dc110b1ef940e6583138f9ca636e",
+  "path": "copy_studio/stills/5b52dc110b1ef940e6583138f9ca636e.png",
+  "sha256": "0a3f04488547d2ac43558d5795f9422b56db75f8405bd37e8e1a4333b822cc57",
+  "bytes": 433207,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/5b52dc110b1ef940e6583138f9ca636e",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:5f76d9d8d9a680d7a25b1bbf538d9f14",
+  "path": "copy_studio/stills/5f76d9d8d9a680d7a25b1bbf538d9f14.jpg",
+  "sha256": "9431bb9274ee2e56e957955b2cf0b5879992a302ef691ab0c9e2beb1930a42dd",
+  "bytes": 33702,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/5f76d9d8d9a680d7a25b1bbf538d9f14",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:62d571809a0fd04fc8de14a8bea9bba7",
+  "path": "copy_studio/stills/62d571809a0fd04fc8de14a8bea9bba7.jpg",
+  "sha256": "fb2761a1064d386fcaaa6a874bb53839fbe3168b54b08442d663e1d5c9eeb1c7",
+  "bytes": 38245,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/62d571809a0fd04fc8de14a8bea9bba7",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:6362391d033e44d1ccb6cf3d4f28a7e0",
+  "path": "copy_studio/stills/6362391d033e44d1ccb6cf3d4f28a7e0.jpg",
+  "sha256": "37be1f1a3e85f75b73cb23961ba9704377a2a97f768042d53113324bfaa1418d",
+  "bytes": 31554,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/6362391d033e44d1ccb6cf3d4f28a7e0",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:6669f571e64e53949c1163d50dcc25bf",
+  "path": "copy_studio/stills/6669f571e64e53949c1163d50dcc25bf.jpg",
+  "sha256": "47de783ecb7d8845b183ed51acf4b281e07a3c1b89ae6b805f90a1ad5a274a12",
+  "bytes": 37913,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/6669f571e64e53949c1163d50dcc25bf",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:6822b0e03e7ab33b6b328f62b32bbf91",
+  "path": "copy_studio/stills/6822b0e03e7ab33b6b328f62b32bbf91.png",
+  "sha256": "0baf69c8d7f6c4c92a77339cd5d4475ea0aa85077ec1599559a8412924fdad96",
+  "bytes": 115379,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/6822b0e03e7ab33b6b328f62b32bbf91",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:69a4c1e0118ac17f879d3b1e08e6b7be",
+  "path": "copy_studio/stills/69a4c1e0118ac17f879d3b1e08e6b7be.jpg",
+  "sha256": "33965377fe85050b931fd4385abcfbb76884b88df01ab8411e171e79523fe355",
+  "bytes": 30762,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/69a4c1e0118ac17f879d3b1e08e6b7be",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:70336f4d3b77ba12739de138c96da764",
+  "path": "copy_studio/stills/70336f4d3b77ba12739de138c96da764.jpg",
+  "sha256": "5a4bf772f77126e7f261f2fa5c54c9ce8852a8c819f622a5daa236a301118a31",
+  "bytes": 30104,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/70336f4d3b77ba12739de138c96da764",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:74734fd46c57f49b91c4684141c6c946",
+  "path": "copy_studio/stills/74734fd46c57f49b91c4684141c6c946.jpg",
+  "sha256": "89e73c081d1da995fd069e43f3c764394476a9cfa27498a00ff77da94bd904d4",
+  "bytes": 34655,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/74734fd46c57f49b91c4684141c6c946",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:759c332ac10bdfc1d2a265aee4da2707",
+  "path": "copy_studio/stills/759c332ac10bdfc1d2a265aee4da2707.png",
+  "sha256": "b70dc136284856ef793e1ed9306b8e4e7b412c9d833a0642f7e0236fccd1d93a",
+  "bytes": 235355,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/759c332ac10bdfc1d2a265aee4da2707",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:76fc89494bf00d17f2ebfaa021dc09a7",
+  "path": "copy_studio/stills/76fc89494bf00d17f2ebfaa021dc09a7.jpg",
+  "sha256": "910a2c1657ea1cb00c207f5fa2664b6d4fcbc459d4df910736cb4b25a4cbbcfc",
+  "bytes": 29949,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/76fc89494bf00d17f2ebfaa021dc09a7",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:79b2e89cd9678a520eecb1f81ec9f9f9",
+  "path": "copy_studio/stills/79b2e89cd9678a520eecb1f81ec9f9f9.jpg",
+  "sha256": "c0d52a2cdaa23ac9001c00324cd7e87df5246b0845c7542b21b0ef62406e3523",
+  "bytes": 35728,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/79b2e89cd9678a520eecb1f81ec9f9f9",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:7e5895969e535ed5ed0d0bbd7aadd921",
+  "path": "copy_studio/stills/7e5895969e535ed5ed0d0bbd7aadd921.png",
+  "sha256": "f521af18bb9bf2de42f11504d74be1b16173b44244734554cec117403d1fae84",
+  "bytes": 470252,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/7e5895969e535ed5ed0d0bbd7aadd921",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:7eff664e53b5ab715242e7338f1983f2",
+  "path": "copy_studio/stills/7eff664e53b5ab715242e7338f1983f2.png",
+  "sha256": "8c122c1fdd3e46a46e987b8ce04a03bc43842733a1cf338ce6ef23cde6909218",
+  "bytes": 575523,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/7eff664e53b5ab715242e7338f1983f2",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:8034156b9b26fd4eeb008b13f3848282",
+  "path": "copy_studio/stills/8034156b9b26fd4eeb008b13f3848282.jpg",
+  "sha256": "25b6ee9e870b6dc54e990596af28424fdc2f8b79028d516f58221d783d621c3a",
+  "bytes": 29844,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/8034156b9b26fd4eeb008b13f3848282",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:82767147b8700199f21012a126cc1cc9",
+  "path": "copy_studio/stills/82767147b8700199f21012a126cc1cc9.jpg",
+  "sha256": "2de97116d9327f6787fe60424b4e22cde1b6cd8993edb69eb42815798528273e",
+  "bytes": 32828,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/82767147b8700199f21012a126cc1cc9",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:88d82199901700fcddd3af765d1c35bd",
+  "path": "copy_studio/stills/88d82199901700fcddd3af765d1c35bd.jpg",
+  "sha256": "ef731ccd70bcb46efdf5fe8f6c88e217816d8a734ccf038fe998612ce28ea0e3",
+  "bytes": 27434,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/88d82199901700fcddd3af765d1c35bd",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:8b0001c55623a427bbc9657de1424aef",
+  "path": "copy_studio/stills/8b0001c55623a427bbc9657de1424aef.png",
+  "sha256": "1689b76d232a6e4315fbb70f71f1c6b840ac1498e48f484b9c5397e1b89c3c41",
+  "bytes": 422246,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/8b0001c55623a427bbc9657de1424aef",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:94df0c7ee26d248b79c4818a2727d6c2",
+  "path": "copy_studio/stills/94df0c7ee26d248b79c4818a2727d6c2.jpg",
+  "sha256": "0047e7569e49de5fb2a341597f8ceb43ee1ff5502045e8db1190be9b905b8f12",
+  "bytes": 31349,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/94df0c7ee26d248b79c4818a2727d6c2",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:989bf93e086091c30104e30c443ebc4e",
+  "path": "copy_studio/stills/989bf93e086091c30104e30c443ebc4e.jpg",
+  "sha256": "27ecafaabcb020513c82469e6d62eb0278a953756f7eab02fe373996268d7d5b",
+  "bytes": 32013,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/989bf93e086091c30104e30c443ebc4e",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:99b2279b55854917a04b17dfe38516cb",
+  "path": "copy_studio/stills/99b2279b55854917a04b17dfe38516cb.png",
+  "sha256": "0baf69c8d7f6c4c92a77339cd5d4475ea0aa85077ec1599559a8412924fdad96",
+  "bytes": 115379,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/99b2279b55854917a04b17dfe38516cb",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:9ca9a2a061225690a5d5c41d841f3776",
+  "path": "copy_studio/stills/9ca9a2a061225690a5d5c41d841f3776.jpg",
+  "sha256": "9223f9813e55f9cafd7e129168618cc4a5e519ca0ee44fd42ee9af06e1cbb135",
+  "bytes": 31468,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/9ca9a2a061225690a5d5c41d841f3776",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:a589731152895d78a0574d36bec6fdbc",
+  "path": "copy_studio/stills/a589731152895d78a0574d36bec6fdbc.jpg",
+  "sha256": "aade5849ee1c261451b79faa9fb256fccdc7ef21ba7376171970e034f49ce663",
+  "bytes": 30909,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/a589731152895d78a0574d36bec6fdbc",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:abe090edfab672ebf8fb31d279e7dd18",
+  "path": "copy_studio/stills/abe090edfab672ebf8fb31d279e7dd18.jpg",
+  "sha256": "3c8e78f4022d3571f1a79abbc8faf89ada995340143b3861705018837fa54f84",
+  "bytes": 30617,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/abe090edfab672ebf8fb31d279e7dd18",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:ae1cbc0b29431a38149b4897fad4fdb7",
+  "path": "copy_studio/stills/ae1cbc0b29431a38149b4897fad4fdb7.png",
+  "sha256": "f0ce475738f93b034bfcff0c8ae8bcdb7f2d6bada8daf427246806ea7cdce721",
+  "bytes": 444432,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/ae1cbc0b29431a38149b4897fad4fdb7",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:af717d3a588148262c946053825c3e7e",
+  "path": "copy_studio/stills/af717d3a588148262c946053825c3e7e.png",
+  "sha256": "f8634472d51b7e24bec4b6b8579ca8d7b46c0f4b09e4746a876a220b436248c2",
+  "bytes": 562252,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/af717d3a588148262c946053825c3e7e",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:b467d5636349909ed79ba533b50e880d",
+  "path": "copy_studio/stills/b467d5636349909ed79ba533b50e880d.jpg",
+  "sha256": "1b08617182bd507f3f980a0a901ce0f1dd49dc1da0f097729aad51d4e7aa08e4",
+  "bytes": 35145,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/b467d5636349909ed79ba533b50e880d",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:ba80213b6371093056e97324923c6ecf",
+  "path": "copy_studio/stills/ba80213b6371093056e97324923c6ecf.png",
+  "sha256": "d8d4b12db80c87ae3d4314f151bbd026e2a9b2087ad6fcbd95aadcfc0edc938b",
+  "bytes": 384161,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/ba80213b6371093056e97324923c6ecf",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:bb333479588d9c3f1b822db630839605",
+  "path": "copy_studio/stills/bb333479588d9c3f1b822db630839605.png",
+  "sha256": "863cf5b70c58ec0bb455ae9ffb66ceec1247642358ef5821bff06d654a8bbdda",
+  "bytes": 422156,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/bb333479588d9c3f1b822db630839605",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:bc8c5fb5f83df8f5768fd8b98438d10b",
+  "path": "copy_studio/stills/bc8c5fb5f83df8f5768fd8b98438d10b.jpg",
+  "sha256": "b7f99d1e5fcc39894b46eda727bf681d68076491cfe981f421b5aca95b7b2406",
+  "bytes": 37240,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/bc8c5fb5f83df8f5768fd8b98438d10b",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:beefafaa3547e9438a1a24a55e94cb68",
+  "path": "copy_studio/stills/beefafaa3547e9438a1a24a55e94cb68.jpg",
+  "sha256": "2bcefd7c8eba8e5fd8b551c528195cc55bb9a225fb6215d5d302de80efe217dd",
+  "bytes": 28696,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/beefafaa3547e9438a1a24a55e94cb68",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:c1141cc1b29cb5d12023ba14d8fce487",
+  "path": "copy_studio/stills/c1141cc1b29cb5d12023ba14d8fce487.jpg",
+  "sha256": "2bc6b783a354a148ab38a4a820aa258690cda77768f81c6e49623016f2f9f60e",
+  "bytes": 31554,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/c1141cc1b29cb5d12023ba14d8fce487",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:c30e2dbe36d29860d15f9499c47b829c",
+  "path": "copy_studio/stills/c30e2dbe36d29860d15f9499c47b829c.jpg",
+  "sha256": "742b1bacad91f90912d1116c9b2741e9765032eb29bdc19cb3fc510b99baa75e",
+  "bytes": 43987,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/c30e2dbe36d29860d15f9499c47b829c",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:c39683ee68838fd5af3666490c6ca942",
+  "path": "copy_studio/stills/c39683ee68838fd5af3666490c6ca942.png",
+  "sha256": "1cb615b1fd2206e381a420f89c0021b62ece396c47591a7c6884874615a08216",
+  "bytes": 418987,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/c39683ee68838fd5af3666490c6ca942",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:c6820ccbb8480b22306cdf574c0d3f52",
+  "path": "copy_studio/stills/c6820ccbb8480b22306cdf574c0d3f52.jpg",
+  "sha256": "566cbc5da887f4659d855c0be238d3b0d78bf7ba24156ccfb403d3d7b208257c",
+  "bytes": 33578,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/c6820ccbb8480b22306cdf574c0d3f52",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:caf4157db4e5b2c5d7998750f6e4c81f",
+  "path": "copy_studio/stills/caf4157db4e5b2c5d7998750f6e4c81f.png",
+  "sha256": "09681206328a8a954f9c5629243a1718d09f083acaa64f64bd132997b3a5e9ca",
+  "bytes": 731518,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/caf4157db4e5b2c5d7998750f6e4c81f",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:cd159180daf904c8605c89dc257c9c6b",
+  "path": "copy_studio/stills/cd159180daf904c8605c89dc257c9c6b.png",
+  "sha256": "65940e3630ad8fb6b3cab7bc633fbce96455e23a182464c36d0e9564a8e04103",
+  "bytes": 582611,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/cd159180daf904c8605c89dc257c9c6b",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:d1c0eb80bdf3ff5e3018171666655cc9",
+  "path": "copy_studio/stills/d1c0eb80bdf3ff5e3018171666655cc9.png",
+  "sha256": "5ed7ffb8d4aa07f0bfa9f71d2b50bab62fc8b22aefb39adac58cd4ea9bd0781c",
+  "bytes": 374239,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/d1c0eb80bdf3ff5e3018171666655cc9",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:d69785d0214f82ad04cfdd48d5b643bd",
+  "path": "copy_studio/stills/d69785d0214f82ad04cfdd48d5b643bd.png",
+  "sha256": "0baf69c8d7f6c4c92a77339cd5d4475ea0aa85077ec1599559a8412924fdad96",
+  "bytes": 115379,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/d69785d0214f82ad04cfdd48d5b643bd",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:d7afef8c0165f537cb5dbb55725e4834",
+  "path": "copy_studio/stills/d7afef8c0165f537cb5dbb55725e4834.png",
+  "sha256": "ef1e24735edbfbe28fda4809b3c86a2e9b610792bf0ce9f0196b1487043ef6e4",
+  "bytes": 567685,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/d7afef8c0165f537cb5dbb55725e4834",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:d7e202f32e8da3467af1bd11f6ba0d8b",
+  "path": "copy_studio/stills/d7e202f32e8da3467af1bd11f6ba0d8b.jpg",
+  "sha256": "608736ab1ac92ec855d9c2ce1eb1c5860fccf68d10090445a2eb13095d1899e6",
+  "bytes": 30833,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/d7e202f32e8da3467af1bd11f6ba0d8b",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:dde7ff33265b097663aba322fd0456f3",
+  "path": "copy_studio/stills/dde7ff33265b097663aba322fd0456f3.jpg",
+  "sha256": "483211c91396ad34adf8680afeca1bf61db2c1d9b985b1e5a7af58be05425e75",
+  "bytes": 41905,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/dde7ff33265b097663aba322fd0456f3",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:ed5c28b259efdd85d70c2893fa09aa15",
+  "path": "copy_studio/stills/ed5c28b259efdd85d70c2893fa09aa15.jpg",
+  "sha256": "6148a72b574eff1bef8ee1d3312d0cc4c55b88044b7ce8da423bb68b6c545ea5",
+  "bytes": 39771,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/ed5c28b259efdd85d70c2893fa09aa15",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:edfcaf7c9d8757e1e472650bcc54d996",
+  "path": "copy_studio/stills/edfcaf7c9d8757e1e472650bcc54d996.jpg",
+  "sha256": "9b41c0e73a8fc4be15280386a5375b52730fa8e3fbde797ab2d88dd651b3f3d9",
+  "bytes": 35560,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/edfcaf7c9d8757e1e472650bcc54d996",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:ee85463fe3031ce5599e35ae0cbcd4d4",
+  "path": "copy_studio/stills/ee85463fe3031ce5599e35ae0cbcd4d4.png",
+  "sha256": "36f5cd3c26c23db2c275570e58c781b933ed26010729948c865f8c67424d940d",
+  "bytes": 489079,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/ee85463fe3031ce5599e35ae0cbcd4d4",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:f0bacb16a41c08099c11b883565f8705",
+  "path": "copy_studio/stills/f0bacb16a41c08099c11b883565f8705.jpg",
+  "sha256": "b72a0820be11e71c4bfb5e433b21206b9d42e61daa1ed23aa7556fd2014ab0cf",
+  "bytes": 34605,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/f0bacb16a41c08099c11b883565f8705",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:f2d19ae33a4b580277ed9ce6bafe8469",
+  "path": "copy_studio/stills/f2d19ae33a4b580277ed9ce6bafe8469.jpg",
+  "sha256": "70ba384519dedae41e7886c35f802619b3ce93caf38471c53c93afc9816534cf",
+  "bytes": 43126,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/f2d19ae33a4b580277ed9ce6bafe8469",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:f85a0a879a84e612b4ef7eada9dfbf74",
+  "path": "copy_studio/stills/f85a0a879a84e612b4ef7eada9dfbf74.jpg",
+  "sha256": "3ce9805d292a3a1e2e5f8824d83589850558619d7ccc68b90190087827619740",
+  "bytes": 38325,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/f85a0a879a84e612b4ef7eada9dfbf74",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:fdf2db9e3edd6efb6e10b6caa1bc3ab6",
+  "path": "copy_studio/stills/fdf2db9e3edd6efb6e10b6caa1bc3ab6.jpg",
+  "sha256": "b2b125aad3a71cbdc0dd972bb80e31c3bf1d859f4e582b8de8ddaacdb23f70b1",
+  "bytes": 40075,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/fdf2db9e3edd6efb6e10b6caa1bc3ab6",
+  "kind": "still"
+ },
+ {
+  "asset_id": "copy_studio:blob:fefa7469e5f711102957956c5f9e614f",
+  "path": "copy_studio/stills/fefa7469e5f711102957956c5f9e614f.jpg",
+  "sha256": "5807aeacefaa39deddb56627b284c0cc1b60ac8724d898b59e3fdccf67005c2c",
+  "bytes": 37062,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/533834ac-63b3-44a9-b7ea-14a20e2d89cc/_blob/fefa7469e5f711102957956c5f9e614f",
+  "kind": "still"
+ },
+ {
+  "asset_id": "promo_studio:inline:frameAngled",
+  "path": "promo_studio/frame-angled.png",
+  "sha256": "742e4e4916ad29aa0515468cbdf50c42f726d9a9c470cce91a67fd4c5056037b",
+  "bytes": 85151,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/87fba3d0-9bd1-49cb-ab7e-589c1f77a974 (inline in the page, frameAngled)",
+  "kind": "frame"
+ },
+ {
+  "asset_id": "promo_studio:inline:frameStraight",
+  "path": "promo_studio/frame-straight.png",
+  "sha256": "c58eb9e963cd39d1d5129b580b2e759d228f36f0c576846b19b5e89e3dfdcb3b",
+  "bytes": 86682,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/87fba3d0-9bd1-49cb-ab7e-589c1f77a974 (inline in the page, frameStraight)",
+  "kind": "frame"
+ },
+ {
+  "asset_id": "promo_studio:inline:logo",
+  "path": "promo_studio/logo.png",
+  "sha256": "b5fc24f37e8672b5e0692197ea2633835094bf74fd061ef14fbefb11b6945d93",
+  "bytes": 15342,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/87fba3d0-9bd1-49cb-ab7e-589c1f77a974 (inline in the page, logo)",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "promo_studio:inline:s1",
+  "path": "promo_studio/screenshot-1.jpg",
+  "sha256": "234b43144dab109e7b43ceb23a95b86fad1a4092fc9f996c84f87c73ae2eecdf",
+  "bytes": 276128,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/87fba3d0-9bd1-49cb-ab7e-589c1f77a974 (inline in the page, s1)",
+  "kind": "screenshot"
+ },
+ {
+  "asset_id": "promo_studio:inline:s2",
+  "path": "promo_studio/screenshot-2.jpg",
+  "sha256": "85325b4f6162e67f45ac942c4ddc3d0f28d27fda47d6c3f2edd6ac50542efe66",
+  "bytes": 269185,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/87fba3d0-9bd1-49cb-ab7e-589c1f77a974 (inline in the page, s2)",
+  "kind": "screenshot"
+ },
+ {
+  "asset_id": "promo_studio:inline:s3",
+  "path": "promo_studio/screenshot-3.jpg",
+  "sha256": "f567f957fa8e49a6a13db41b56e23c7c90822ea2771efa362dd688210ee36e99",
+  "bytes": 236757,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/87fba3d0-9bd1-49cb-ab7e-589c1f77a974 (inline in the page, s3)",
+  "kind": "screenshot"
+ },
+ {
+  "asset_id": "publishing_desk:logos/QuantGeeks-Logo-v2-trim.png",
+  "path": "publishing_desk/logos/QuantGeeks-Logo-v2-trim.png",
+  "sha256": "4c7cf1f099a32cf1e199ae2c82f6f6336a5b118760a5e4b654d079f7ec2bf2c8",
+  "bytes": 27793,
+  "mime": "image/png",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/logos/QuantGeeks-Logo-v2-trim.png",
+  "kind": "logo"
+ },
+ {
+  "asset_id": "publishing_desk:blob:001dc9f52712a9ae4eb982029c012a47",
+  "path": "publishing_desk/thumbs-uploaded/001dc9f52712a9ae4eb982029c012a47.jpg",
+  "sha256": "b81639ef9a342d5d2a9b6e4989b6b138ecf9929393f2d122576754eef4b08a4f",
+  "bytes": 21994,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/001dc9f52712a9ae4eb982029c012a47",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:00323c4050d046539ef08eccbfde4d71",
+  "path": "publishing_desk/thumbs-uploaded/00323c4050d046539ef08eccbfde4d71.jpg",
+  "sha256": "58dd95da47bbf913ecbd2b6cc78bd58fc50c753958f145905c1104708b941b65",
+  "bytes": 29406,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/00323c4050d046539ef08eccbfde4d71",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:011ff4e500d47129044e1bcaa6bd0d09",
+  "path": "publishing_desk/thumbs-uploaded/011ff4e500d47129044e1bcaa6bd0d09.jpg",
+  "sha256": "6494b80c17e6090bb743b290fe0ad9c61ec5bcf0232078bc89d0b5210c7cb7b3",
+  "bytes": 29818,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/011ff4e500d47129044e1bcaa6bd0d09",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0222e24b8f4ca5cdc76da6da9f94deaa",
+  "path": "publishing_desk/thumbs-uploaded/0222e24b8f4ca5cdc76da6da9f94deaa.jpg",
+  "sha256": "049b7908ecf6c0ed63fb0fa6dcad57c36f650327dbaa67c84e31a5290771f4cd",
+  "bytes": 31652,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0222e24b8f4ca5cdc76da6da9f94deaa",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:02bf46135f06fcfdb6e4a96a3c44e49e",
+  "path": "publishing_desk/thumbs-uploaded/02bf46135f06fcfdb6e4a96a3c44e49e.jpg",
+  "sha256": "b1da830678e584af61d8368c85d3b47ef8136e278b1df3c30716b06ecd228e78",
+  "bytes": 23516,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/02bf46135f06fcfdb6e4a96a3c44e49e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:04b6d6fbac4af4de676b59fbcce71595",
+  "path": "publishing_desk/thumbs-uploaded/04b6d6fbac4af4de676b59fbcce71595.jpg",
+  "sha256": "d91bcf428ff09200d8fb1d2cb8ceeb802a39e40b00be06d39d5941c2cd89964c",
+  "bytes": 22302,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/04b6d6fbac4af4de676b59fbcce71595",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:04ff7a963b3d880ca14cb7935926dfb7",
+  "path": "publishing_desk/thumbs-uploaded/04ff7a963b3d880ca14cb7935926dfb7.jpg",
+  "sha256": "d84548c59d4ff514d9461220b4a116c1905db5d2c9f8421b23cd631fce8b9f11",
+  "bytes": 29167,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/04ff7a963b3d880ca14cb7935926dfb7",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:05cffc7661e7d1782a861c8fdae09309",
+  "path": "publishing_desk/thumbs-uploaded/05cffc7661e7d1782a861c8fdae09309.jpg",
+  "sha256": "bdca4967e96b389388e3b562d9f452e206afc747d7a3a444d1e7decc974d7295",
+  "bytes": 29711,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/05cffc7661e7d1782a861c8fdae09309",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0784e0a45044da76b165a54334c3c981",
+  "path": "publishing_desk/thumbs-uploaded/0784e0a45044da76b165a54334c3c981.jpg",
+  "sha256": "43ebd19433ace0f38e2e7c9d2fd706c93ee4d52b23e44dbcff02298184cd7f97",
+  "bytes": 28916,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0784e0a45044da76b165a54334c3c981",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:090cf52ab44dc3cb31eb4277de13d98a",
+  "path": "publishing_desk/thumbs-uploaded/090cf52ab44dc3cb31eb4277de13d98a.jpg",
+  "sha256": "9182fd8d4a13e34daa950952268f7de80188e7c0244aa12baed882c1e2d07843",
+  "bytes": 27035,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/090cf52ab44dc3cb31eb4277de13d98a",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0a4a20f460d5892a4b23377f30cf4707",
+  "path": "publishing_desk/thumbs-uploaded/0a4a20f460d5892a4b23377f30cf4707.jpg",
+  "sha256": "5eed6c5f0f4e35049f1ee15bb2fef0f8ac448620acb64cfe78c6307195c689dd",
+  "bytes": 17099,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0a4a20f460d5892a4b23377f30cf4707",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0b20ea900cf039b270aa6c4eae833aac",
+  "path": "publishing_desk/thumbs-uploaded/0b20ea900cf039b270aa6c4eae833aac.jpg",
+  "sha256": "5b700a357cf84e019c728b83bce094a256e243d057ce67cb475056b99572f972",
+  "bytes": 23950,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0b20ea900cf039b270aa6c4eae833aac",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0b71bfb61c12b4ae781365e3d5991b5c",
+  "path": "publishing_desk/thumbs-uploaded/0b71bfb61c12b4ae781365e3d5991b5c.jpg",
+  "sha256": "e06f2966429a3af98a1e0d729deb52b8660ad8f037409539ee6736c1d99a6adc",
+  "bytes": 23022,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0b71bfb61c12b4ae781365e3d5991b5c",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0c973e2cdde4d5af65f3c585f5b217b9",
+  "path": "publishing_desk/thumbs-uploaded/0c973e2cdde4d5af65f3c585f5b217b9.jpg",
+  "sha256": "7063c811218598c430880a6ba73f7258b19fb27595ad25482f5005e18b72f5be",
+  "bytes": 22846,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0c973e2cdde4d5af65f3c585f5b217b9",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0cb43a1449a054a7d61c292dfc7aa838",
+  "path": "publishing_desk/thumbs-uploaded/0cb43a1449a054a7d61c292dfc7aa838.jpg",
+  "sha256": "e6a191eaff46ad18aa8c54899b21eae5f88af8e6fee625642bd548b4c70f1816",
+  "bytes": 21520,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0cb43a1449a054a7d61c292dfc7aa838",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0d73e78b0512824be9a6accd3df54e32",
+  "path": "publishing_desk/thumbs-uploaded/0d73e78b0512824be9a6accd3df54e32.jpg",
+  "sha256": "92160bc519a8cca63762d380b25514d3a51484f329e0e2bb7bceb8b128c20470",
+  "bytes": 28028,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0d73e78b0512824be9a6accd3df54e32",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0e6d17867063b00c0c55741de5e47050",
+  "path": "publishing_desk/thumbs-uploaded/0e6d17867063b00c0c55741de5e47050.jpg",
+  "sha256": "36171829e45862dcb4e1271837fad36ebe4b71ca51f9cfa127dcd25576606b1a",
+  "bytes": 22691,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0e6d17867063b00c0c55741de5e47050",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:0f8d27bef1afedfc2f5e4811ea5904e3",
+  "path": "publishing_desk/thumbs-uploaded/0f8d27bef1afedfc2f5e4811ea5904e3.jpg",
+  "sha256": "f3b15898ca5e1b197f931938ac41f0642995b5e68aba7276e723946c6e574191",
+  "bytes": 27118,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/0f8d27bef1afedfc2f5e4811ea5904e3",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:10b7b7573e90cb09c0c461a2e2135f31",
+  "path": "publishing_desk/thumbs-uploaded/10b7b7573e90cb09c0c461a2e2135f31.jpg",
+  "sha256": "998798ff454ad40417e799a6d8d7a678cfa36c8988791177e7f3fc201d24d8af",
+  "bytes": 30332,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/10b7b7573e90cb09c0c461a2e2135f31",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:10c04ecb565d13942fe3de127f8b4e0f",
+  "path": "publishing_desk/thumbs-uploaded/10c04ecb565d13942fe3de127f8b4e0f.jpg",
+  "sha256": "7a2a503ae26b377d7f09f595ca11cbd78c95b0e1e10e27987eb92ef20b834767",
+  "bytes": 22924,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/10c04ecb565d13942fe3de127f8b4e0f",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:1357a9467ea324434885fcd5f1a8e8f5",
+  "path": "publishing_desk/thumbs-uploaded/1357a9467ea324434885fcd5f1a8e8f5.jpg",
+  "sha256": "f6b71dbd806b4511219ae7cef63c40c0aefec00bb9722e72af156f2b04eb5c40",
+  "bytes": 24154,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/1357a9467ea324434885fcd5f1a8e8f5",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:141f75967742212b8633ec8f652cc2bc",
+  "path": "publishing_desk/thumbs-uploaded/141f75967742212b8633ec8f652cc2bc.jpg",
+  "sha256": "3b57802b92289e6beceaef3c2a85557ef49fed77edbb5932e5655e1b214c020d",
+  "bytes": 21827,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/141f75967742212b8633ec8f652cc2bc",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:14c3ca45f2228ac101f610d0f80ccfdd",
+  "path": "publishing_desk/thumbs-uploaded/14c3ca45f2228ac101f610d0f80ccfdd.jpg",
+  "sha256": "ad5feca7b73468d3011402ff6f3bdaa6862879244d2dab90fca6acb8190e30e1",
+  "bytes": 16707,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/14c3ca45f2228ac101f610d0f80ccfdd",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:1528799996c05124bc04bab56deac30e",
+  "path": "publishing_desk/thumbs-uploaded/1528799996c05124bc04bab56deac30e.jpg",
+  "sha256": "958b149f93ac14f284d4c2b90c2abfc80a6fc66ee8926871f02325b315e9bd73",
+  "bytes": 16265,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/1528799996c05124bc04bab56deac30e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:16dce3281362e3b0cbc8a19a9d65cc87",
+  "path": "publishing_desk/thumbs-uploaded/16dce3281362e3b0cbc8a19a9d65cc87.jpg",
+  "sha256": "17df7206796e58484de9fb3a6232316592bedfa62cfe58b77f6ea52aec9b2c74",
+  "bytes": 23813,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/16dce3281362e3b0cbc8a19a9d65cc87",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:17cf22c3dbadda6ded7c8324abf28de2",
+  "path": "publishing_desk/thumbs-uploaded/17cf22c3dbadda6ded7c8324abf28de2.jpg",
+  "sha256": "e9d064064f06724fddf5d75cb5353913ecee20ebffbeeaea3405f06610f86775",
+  "bytes": 17094,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/17cf22c3dbadda6ded7c8324abf28de2",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:18b5ae998c7446ed4f6dd0a054ebf9f7",
+  "path": "publishing_desk/thumbs-uploaded/18b5ae998c7446ed4f6dd0a054ebf9f7.jpg",
+  "sha256": "fc964528e23220da4ac4eecf023e0bc669c31bf67f7f11077bc81d1f02b5fd05",
+  "bytes": 18495,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/18b5ae998c7446ed4f6dd0a054ebf9f7",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:18f660d0a61b3297143f1a30d98922c7",
+  "path": "publishing_desk/thumbs-uploaded/18f660d0a61b3297143f1a30d98922c7.jpg",
+  "sha256": "02759fb59fbad91c5bd8b0c26b6a16d6ac053603d7f0cbdda8a0b6a4c129054a",
+  "bytes": 27585,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/18f660d0a61b3297143f1a30d98922c7",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:19bb20dbbde63a2edd4a6ad18f834e1a",
+  "path": "publishing_desk/thumbs-uploaded/19bb20dbbde63a2edd4a6ad18f834e1a.jpg",
+  "sha256": "d2bc704454e2ee1ec81c0c9d15cb3f2f43e41a12074b21d70f02fbd1f06c3dbf",
+  "bytes": 16416,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/19bb20dbbde63a2edd4a6ad18f834e1a",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:1bc5fcb268be75c6c36fccb14f7d31de",
+  "path": "publishing_desk/thumbs-uploaded/1bc5fcb268be75c6c36fccb14f7d31de.jpg",
+  "sha256": "53eee7ffdf8aeb6d724a8b531481ec06a5ede6f56c7b5a765b025d91123a4af3",
+  "bytes": 30531,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/1bc5fcb268be75c6c36fccb14f7d31de",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:22248df66667c83078461a9f6b1359ba",
+  "path": "publishing_desk/thumbs-uploaded/22248df66667c83078461a9f6b1359ba.jpg",
+  "sha256": "ce0431d9773ca9b5bcea98378250899678605f5618190379a59e75d83cf5700b",
+  "bytes": 23531,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/22248df66667c83078461a9f6b1359ba",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:23386caed875dd9ff5fed8c562fcb1f5",
+  "path": "publishing_desk/thumbs-uploaded/23386caed875dd9ff5fed8c562fcb1f5.jpg",
+  "sha256": "99b44a6422cb38b1b6f445fb0ea05b4b74420431e7660aef005d8563b0a4634b",
+  "bytes": 25073,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/23386caed875dd9ff5fed8c562fcb1f5",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:25dd0701eaf5209ead7ff3b156185561",
+  "path": "publishing_desk/thumbs-uploaded/25dd0701eaf5209ead7ff3b156185561.jpg",
+  "sha256": "c0f84e675822ea67a8bc07d75e6ea3fdb236e4e3784c361c6e1d126cf7c6ff3a",
+  "bytes": 23283,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/25dd0701eaf5209ead7ff3b156185561",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:260ca0804ec5082bb316a8494372c553",
+  "path": "publishing_desk/thumbs-uploaded/260ca0804ec5082bb316a8494372c553.jpg",
+  "sha256": "92d1c7381aedc17acda9470a40c82c75891409d2dfd68ca34c7ac38b98a68526",
+  "bytes": 32199,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/260ca0804ec5082bb316a8494372c553",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:26d96134c162d0c5904ee1e74ccc9085",
+  "path": "publishing_desk/thumbs-uploaded/26d96134c162d0c5904ee1e74ccc9085.jpg",
+  "sha256": "d41312a68d2bd9b75ef387d114b5f3cd967310e52ab6dfe5e08ffe0b76e56879",
+  "bytes": 23365,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/26d96134c162d0c5904ee1e74ccc9085",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:2a74b6e19a0456a8f6f68bfa1c19f7ba",
+  "path": "publishing_desk/thumbs-uploaded/2a74b6e19a0456a8f6f68bfa1c19f7ba.jpg",
+  "sha256": "ea6b47faca8d8d4a34455e287ecf66dfcb11ce035ac95d8adf16f3e0bc1f6583",
+  "bytes": 15727,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/2a74b6e19a0456a8f6f68bfa1c19f7ba",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:2a970429e4dde7177bcf1fe2b9a0c279",
+  "path": "publishing_desk/thumbs-uploaded/2a970429e4dde7177bcf1fe2b9a0c279.jpg",
+  "sha256": "815ce58777e20f15ad52cbc757656e7cc0d226624409d772dd8f0e2fc63bc64a",
+  "bytes": 17814,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/2a970429e4dde7177bcf1fe2b9a0c279",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:2e0a2c578b62e480fcb11cb12a95cffd",
+  "path": "publishing_desk/thumbs-uploaded/2e0a2c578b62e480fcb11cb12a95cffd.jpg",
+  "sha256": "1a32cca4d5bbeec394d73ae3bd30ab37780e0b7ee7d36ae543bd4d2deefeba22",
+  "bytes": 22864,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/2e0a2c578b62e480fcb11cb12a95cffd",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:2f53a4729eef25db8b67f2a759d1b6fa",
+  "path": "publishing_desk/thumbs-uploaded/2f53a4729eef25db8b67f2a759d1b6fa.jpg",
+  "sha256": "7032f556d1c5ff97beecbca8a26829b3459e78d33626cf8da418497b731ca443",
+  "bytes": 30623,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/2f53a4729eef25db8b67f2a759d1b6fa",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:2fa063da100d73fed82748a1f3832746",
+  "path": "publishing_desk/thumbs-uploaded/2fa063da100d73fed82748a1f3832746.jpg",
+  "sha256": "8b1be654437dfac1a1106de6a80baccee51c365656c686020bcbe55d559b3bb3",
+  "bytes": 28910,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/2fa063da100d73fed82748a1f3832746",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:3130a196299c472e4923b960304da4f2",
+  "path": "publishing_desk/thumbs-uploaded/3130a196299c472e4923b960304da4f2.jpg",
+  "sha256": "d09fd1206c72130fd58274c22557ad82be7364f9e60f73790eab69dfcd613e90",
+  "bytes": 26670,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/3130a196299c472e4923b960304da4f2",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:313a4f35def7a0a990079b2b1ae1c3e0",
+  "path": "publishing_desk/thumbs-uploaded/313a4f35def7a0a990079b2b1ae1c3e0.jpg",
+  "sha256": "52bc959b4e3ccdcbad5adcec90f7c14b7501d4c01859281803a3e26f7c1f67b3",
+  "bytes": 17340,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/313a4f35def7a0a990079b2b1ae1c3e0",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:3436b099792936325cce8e8732e8e128",
+  "path": "publishing_desk/thumbs-uploaded/3436b099792936325cce8e8732e8e128.jpg",
+  "sha256": "0d4df40319b00acb65748a4ed2c83dd1bb63b6696fadf8e9182b5bc93dc29aa4",
+  "bytes": 20545,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/3436b099792936325cce8e8732e8e128",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:39899ad4114aca587ff62141f6627c96",
+  "path": "publishing_desk/thumbs-uploaded/39899ad4114aca587ff62141f6627c96.jpg",
+  "sha256": "9d5bde59c911513d217f1a34ac37a7c172bf40cd704b2a9b97036e6dc9f7a0e4",
+  "bytes": 30502,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/39899ad4114aca587ff62141f6627c96",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:3affbac9b2478421b93845ce49b4f526",
+  "path": "publishing_desk/thumbs-uploaded/3affbac9b2478421b93845ce49b4f526.jpg",
+  "sha256": "373f608a2ffad24734243480123b0bdb7011a05e6848bf7c4dc2ad8299c89e44",
+  "bytes": 27625,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/3affbac9b2478421b93845ce49b4f526",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:3bd66303d5edc5ab0358dd3c00b31325",
+  "path": "publishing_desk/thumbs-uploaded/3bd66303d5edc5ab0358dd3c00b31325.jpg",
+  "sha256": "be1338c7ef10c68958f6f44ca1e63767387fc563daf015375b3c1e29eee59006",
+  "bytes": 26410,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/3bd66303d5edc5ab0358dd3c00b31325",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:3e0ed80589c3c91f059e6ee524fb5de4",
+  "path": "publishing_desk/thumbs-uploaded/3e0ed80589c3c91f059e6ee524fb5de4.jpg",
+  "sha256": "b0dd81816e6c13b6bfc3af1ba2b9e5d8b03868229cb89caf9e72665e9dbbcc3b",
+  "bytes": 24703,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/3e0ed80589c3c91f059e6ee524fb5de4",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:3ea09fe8e6b543a9ef4d74ece5947e49",
+  "path": "publishing_desk/thumbs-uploaded/3ea09fe8e6b543a9ef4d74ece5947e49.jpg",
+  "sha256": "a9764b7a1ff3ec23236dbd68756dcee8789a6f35aec0756394c6402efc3f0fce",
+  "bytes": 24089,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/3ea09fe8e6b543a9ef4d74ece5947e49",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:461f327c9808cb2879a90a027fb12d78",
+  "path": "publishing_desk/thumbs-uploaded/461f327c9808cb2879a90a027fb12d78.jpg",
+  "sha256": "fbc349be37023c0613d9f2a5d0d1115ca27739d12e9998066678860257e9d5ab",
+  "bytes": 26715,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/461f327c9808cb2879a90a027fb12d78",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4692c80d8302bc75a43061f6919cee23",
+  "path": "publishing_desk/thumbs-uploaded/4692c80d8302bc75a43061f6919cee23.jpg",
+  "sha256": "ccc4ccbe0df89f86e39744424fb243334925e9b6673ddd43fb91031a302aa463",
+  "bytes": 23650,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4692c80d8302bc75a43061f6919cee23",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4769b526b0cdcbe08e8a4766a13e6066",
+  "path": "publishing_desk/thumbs-uploaded/4769b526b0cdcbe08e8a4766a13e6066.jpg",
+  "sha256": "2e575c04defb483039ee76e4eb27a138210d876ab08035b5f625ed43148946c7",
+  "bytes": 28351,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4769b526b0cdcbe08e8a4766a13e6066",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:49d39bf96fd608fed5b2b661a594ae2c",
+  "path": "publishing_desk/thumbs-uploaded/49d39bf96fd608fed5b2b661a594ae2c.jpg",
+  "sha256": "8f52eaea36e930d46fa5095cec35f40af864e2f005338f6247e805db232965ce",
+  "bytes": 25389,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/49d39bf96fd608fed5b2b661a594ae2c",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4a38cdbb4918fff39aac560d748628ad",
+  "path": "publishing_desk/thumbs-uploaded/4a38cdbb4918fff39aac560d748628ad.jpg",
+  "sha256": "82c14cc11768fdf3747bc19b599be6fb01c93800cc211a51ed9067ad3873e6bf",
+  "bytes": 17760,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4a38cdbb4918fff39aac560d748628ad",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4c46080251eff8eff1d1ff716cba2663",
+  "path": "publishing_desk/thumbs-uploaded/4c46080251eff8eff1d1ff716cba2663.jpg",
+  "sha256": "9afcd49bd0fcecec9ff962f9ba7eb29a12cebe6e9e5dba97a63f69aea71c6f18",
+  "bytes": 31605,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4c46080251eff8eff1d1ff716cba2663",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4c9dd3dc88b8d501c3ca0d43b2a1c8d8",
+  "path": "publishing_desk/thumbs-uploaded/4c9dd3dc88b8d501c3ca0d43b2a1c8d8.jpg",
+  "sha256": "682d3dfe39b36bfebeb3e426a170bc41b6c6d20514dc9fdcd28cd75a267d6563",
+  "bytes": 29018,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4c9dd3dc88b8d501c3ca0d43b2a1c8d8",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4da5f76d7ad2a091f4a51ea8f59b518e",
+  "path": "publishing_desk/thumbs-uploaded/4da5f76d7ad2a091f4a51ea8f59b518e.jpg",
+  "sha256": "287d8cf476a4c9474d6250f7549abcd5a1c0250da65e1686c8bd6f7b829d8bc8",
+  "bytes": 25046,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4da5f76d7ad2a091f4a51ea8f59b518e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4e90f3c7cb0156168ff448ee7bac9e25",
+  "path": "publishing_desk/thumbs-uploaded/4e90f3c7cb0156168ff448ee7bac9e25.jpg",
+  "sha256": "2f90f1b653cc019739349fefe3811cdbf259325674608838bc6b595c64c7fddc",
+  "bytes": 29476,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4e90f3c7cb0156168ff448ee7bac9e25",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:4fd1c2f316dfeb29a1a466d4230d5535",
+  "path": "publishing_desk/thumbs-uploaded/4fd1c2f316dfeb29a1a466d4230d5535.jpg",
+  "sha256": "7a46937ce756b98fb92cf17405dbbec74447c58eaf8ef258b34b5b734a474637",
+  "bytes": 27130,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/4fd1c2f316dfeb29a1a466d4230d5535",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:5815e980cbb4921571a87e4e11b2cdd7",
+  "path": "publishing_desk/thumbs-uploaded/5815e980cbb4921571a87e4e11b2cdd7.jpg",
+  "sha256": "efee6b776d73cd9f04a904bbafc9a2defe21194a09f45e1350df40241a629ebc",
+  "bytes": 22512,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/5815e980cbb4921571a87e4e11b2cdd7",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:59120e11ae150e2f11a280f6f5034ee6",
+  "path": "publishing_desk/thumbs-uploaded/59120e11ae150e2f11a280f6f5034ee6.jpg",
+  "sha256": "cc689bcdb5c1902074ab9a4e0aa62ed4e793df5d2d67b8c2e5b0b3a62e902683",
+  "bytes": 29243,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/59120e11ae150e2f11a280f6f5034ee6",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:59811caf9360d0d46783461e22e88744",
+  "path": "publishing_desk/thumbs-uploaded/59811caf9360d0d46783461e22e88744.jpg",
+  "sha256": "366d86725b8ce07e2ade610472e2dabf49609fe53d1cfebdbdbd79ed28f3903d",
+  "bytes": 29953,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/59811caf9360d0d46783461e22e88744",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:5aa33a787a967815c1c7f7b7943d5628",
+  "path": "publishing_desk/thumbs-uploaded/5aa33a787a967815c1c7f7b7943d5628.jpg",
+  "sha256": "0eca8939697e1d58083306ff691591fbd091d5f62b5e366c701a616efe8c70db",
+  "bytes": 17154,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/5aa33a787a967815c1c7f7b7943d5628",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:5b8a32b218a7ca0e89d932f0eb7a021d",
+  "path": "publishing_desk/thumbs-uploaded/5b8a32b218a7ca0e89d932f0eb7a021d.jpg",
+  "sha256": "5f0806569a3d9a621edb5e3d0f93c1455fcaab7d797d14f5f7c45c4cd1f060d2",
+  "bytes": 29165,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/5b8a32b218a7ca0e89d932f0eb7a021d",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:5d1f9abbc67b9e2d6f8a86541e2a5f32",
+  "path": "publishing_desk/thumbs-uploaded/5d1f9abbc67b9e2d6f8a86541e2a5f32.jpg",
+  "sha256": "c3d3069f45db44dc70ea1a4bccabbce9236647a218eb83ebf31250ee9f169546",
+  "bytes": 24162,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/5d1f9abbc67b9e2d6f8a86541e2a5f32",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:5e8c1ceee49030875dd9d942d32292bd",
+  "path": "publishing_desk/thumbs-uploaded/5e8c1ceee49030875dd9d942d32292bd.jpg",
+  "sha256": "2bf732062ebd0e2831e6f0f5664a79ad60d8ff5a1a250c629f645f997f0bc4b9",
+  "bytes": 22536,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/5e8c1ceee49030875dd9d942d32292bd",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:626d686b69282e2d9894e3be806b7a2e",
+  "path": "publishing_desk/thumbs-uploaded/626d686b69282e2d9894e3be806b7a2e.jpg",
+  "sha256": "688b294abdd68e89b4b7198e1f4fe95bdc287b8610b185b6cd3ce53a86ec2811",
+  "bytes": 16928,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/626d686b69282e2d9894e3be806b7a2e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:675edee6dda8b3690a05b32227d11ac3",
+  "path": "publishing_desk/thumbs-uploaded/675edee6dda8b3690a05b32227d11ac3.jpg",
+  "sha256": "98c03691c8df686e81abbfb106dea9a1e4611b08c8a64a20137b8f5e78b9772a",
+  "bytes": 26738,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/675edee6dda8b3690a05b32227d11ac3",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:6815eaaaae555a4cbc6077fdd0b6b82f",
+  "path": "publishing_desk/thumbs-uploaded/6815eaaaae555a4cbc6077fdd0b6b82f.jpg",
+  "sha256": "a723d675391361d8ee859393455a1c78c1df140296f7695bf57c8c5f84c1915d",
+  "bytes": 16132,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/6815eaaaae555a4cbc6077fdd0b6b82f",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:6ad0094dbafab62bba6a3367cc9cefec",
+  "path": "publishing_desk/thumbs-uploaded/6ad0094dbafab62bba6a3367cc9cefec.jpg",
+  "sha256": "56e6fe7f1e474d782b1510b8ba39d448891ca326318ea4a04d0b79afc8a8325a",
+  "bytes": 19577,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/6ad0094dbafab62bba6a3367cc9cefec",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:6bcb7b36abcc4c4b26da521fdd860fc3",
+  "path": "publishing_desk/thumbs-uploaded/6bcb7b36abcc4c4b26da521fdd860fc3.jpg",
+  "sha256": "8ed503ff17012272291805a5fadc6e00953d58df26c996ff4b60d9bd0764e350",
+  "bytes": 31947,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/6bcb7b36abcc4c4b26da521fdd860fc3",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:6eb7ad5f5ecc89381eeccf0e29768cc4",
+  "path": "publishing_desk/thumbs-uploaded/6eb7ad5f5ecc89381eeccf0e29768cc4.jpg",
+  "sha256": "1a3cf5ef4aaed7433f92ee27379561f79c6e4d13aa17ee84bee1f378ea97ec8b",
+  "bytes": 27605,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/6eb7ad5f5ecc89381eeccf0e29768cc4",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:6f0c8a17945ee26ea2c30796b9fa96be",
+  "path": "publishing_desk/thumbs-uploaded/6f0c8a17945ee26ea2c30796b9fa96be.jpg",
+  "sha256": "6f54ee7343b5c5f1d963a926fc1f8c8c821cc4d72d11e4048dbb2337c585c8aa",
+  "bytes": 28985,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/6f0c8a17945ee26ea2c30796b9fa96be",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:72d445ca998cdc2f468e90252354de00",
+  "path": "publishing_desk/thumbs-uploaded/72d445ca998cdc2f468e90252354de00.jpg",
+  "sha256": "5255955873726d41b91963a1d0e7f166fd7a40b1787bda33d7d5b5ac8763149b",
+  "bytes": 31884,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/72d445ca998cdc2f468e90252354de00",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:7363a0afe6bb76e78b3bd3ecade4ca00",
+  "path": "publishing_desk/thumbs-uploaded/7363a0afe6bb76e78b3bd3ecade4ca00.jpg",
+  "sha256": "1acb4e5dc67b1a66256a9a1debac1a6b0a0b13b027dda45289e5bb950504d02c",
+  "bytes": 25742,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/7363a0afe6bb76e78b3bd3ecade4ca00",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:73d666ef2421000666ba7840d0a43776",
+  "path": "publishing_desk/thumbs-uploaded/73d666ef2421000666ba7840d0a43776.jpg",
+  "sha256": "1f9233019f42712cbc8febc3b938728d379d3a710ad02042f87d4c84490b5700",
+  "bytes": 21051,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/73d666ef2421000666ba7840d0a43776",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:7add2084c93ded5519105447b5fb849d",
+  "path": "publishing_desk/thumbs-uploaded/7add2084c93ded5519105447b5fb849d.jpg",
+  "sha256": "a6c735f3d64679eec28d6f4bb8a7f9ac6b1df7a269fc1181fe8278775a564b30",
+  "bytes": 27215,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/7add2084c93ded5519105447b5fb849d",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:7c162a91fcb76040858ceb6406db7385",
+  "path": "publishing_desk/thumbs-uploaded/7c162a91fcb76040858ceb6406db7385.jpg",
+  "sha256": "c7f3bd676df2a5a6da824f6241436582df1918d8bacc0d6494391ccb9a13f80b",
+  "bytes": 22626,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/7c162a91fcb76040858ceb6406db7385",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:7d6c262fbbaa66e5897555724dda93db",
+  "path": "publishing_desk/thumbs-uploaded/7d6c262fbbaa66e5897555724dda93db.jpg",
+  "sha256": "93802e848aba316feceb3c6110bc4db74e6c2fabddb7b2f9fc9f5c80139ef3ef",
+  "bytes": 32553,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/7d6c262fbbaa66e5897555724dda93db",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:7f1d501cb8448d077779b0a96808b4ff",
+  "path": "publishing_desk/thumbs-uploaded/7f1d501cb8448d077779b0a96808b4ff.jpg",
+  "sha256": "1a17d2b44e3b96e8ab91396bfaa3439b0277fcb44d69b258b16766efad35948a",
+  "bytes": 29058,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/7f1d501cb8448d077779b0a96808b4ff",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:82422edbb12a8b62cec870023bf4d810",
+  "path": "publishing_desk/thumbs-uploaded/82422edbb12a8b62cec870023bf4d810.jpg",
+  "sha256": "20af9f81721614914dd6c829dc4ddce93ffd287a5c4b575a937d8660bbe1e036",
+  "bytes": 27306,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/82422edbb12a8b62cec870023bf4d810",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:825adaa9fa8c9f7e0ec55f3f3515f5d1",
+  "path": "publishing_desk/thumbs-uploaded/825adaa9fa8c9f7e0ec55f3f3515f5d1.jpg",
+  "sha256": "0ec869e76dd78129c3dcc6b2eb452da9c53cdb415b883060c328ce9a61c3d7fb",
+  "bytes": 21250,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/825adaa9fa8c9f7e0ec55f3f3515f5d1",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:826ab2a3c7282fb1b908733ebadb791b",
+  "path": "publishing_desk/thumbs-uploaded/826ab2a3c7282fb1b908733ebadb791b.jpg",
+  "sha256": "55399e4f66423c5bd68a3cd39844aa491b1a5db6341b613969b3772294618578",
+  "bytes": 16622,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/826ab2a3c7282fb1b908733ebadb791b",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:82daaca5600cfb991a207544102329d6",
+  "path": "publishing_desk/thumbs-uploaded/82daaca5600cfb991a207544102329d6.jpg",
+  "sha256": "f449bf80131cdc1ad55533d9e392d1a37c3f8a809dabb2c21998afbdb2a03f2c",
+  "bytes": 22635,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/82daaca5600cfb991a207544102329d6",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:849d1a1f7b2db4a259c403a3d0d7a10c",
+  "path": "publishing_desk/thumbs-uploaded/849d1a1f7b2db4a259c403a3d0d7a10c.jpg",
+  "sha256": "fc1ca4f7b3770b630cf8a8b2dee2f4b21b7b9126544b0788233724951f3da17a",
+  "bytes": 22455,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/849d1a1f7b2db4a259c403a3d0d7a10c",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:863acc76ab82645c46bc14c010644632",
+  "path": "publishing_desk/thumbs-uploaded/863acc76ab82645c46bc14c010644632.jpg",
+  "sha256": "76449a8c138c1e367a8ba95adc32e41e25df4f703609ccf9089bb01625e8dc31",
+  "bytes": 30501,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/863acc76ab82645c46bc14c010644632",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:879fe445800c04e9a341c3e80007fd09",
+  "path": "publishing_desk/thumbs-uploaded/879fe445800c04e9a341c3e80007fd09.jpg",
+  "sha256": "3158ac8c4d7a27be5c5f15f89b040bc8880ed108c7bb9faa4003ca77aa757bea",
+  "bytes": 23490,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/879fe445800c04e9a341c3e80007fd09",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:87db153227e07ee050c5caeff3137131",
+  "path": "publishing_desk/thumbs-uploaded/87db153227e07ee050c5caeff3137131.jpg",
+  "sha256": "38d1ed9525bfc608c00fcb5eed233f771035e2c9b83db039c2c5cfe2ee3514c7",
+  "bytes": 21969,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/87db153227e07ee050c5caeff3137131",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8935ceb7fe2a6d5019be5c8c8801eb63",
+  "path": "publishing_desk/thumbs-uploaded/8935ceb7fe2a6d5019be5c8c8801eb63.jpg",
+  "sha256": "fe5158d88e62c993d8adba3a09e0e1d005f1ffe06322f892cac89df33a516074",
+  "bytes": 31497,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8935ceb7fe2a6d5019be5c8c8801eb63",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:89c9d3167637a36f2e332585b2e5da13",
+  "path": "publishing_desk/thumbs-uploaded/89c9d3167637a36f2e332585b2e5da13.jpg",
+  "sha256": "bf3a01ead17b949f5b2ef67b5fe5ded0ebe3b5e9cba7f17056d54e82ec5d4e16",
+  "bytes": 29264,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/89c9d3167637a36f2e332585b2e5da13",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8a0abb965d7c093feea90568b5c6e4c4",
+  "path": "publishing_desk/thumbs-uploaded/8a0abb965d7c093feea90568b5c6e4c4.jpg",
+  "sha256": "cfdf5ca9898bf1259ab1432412c1742a41ebe5488ce47cdaf1ba60009749ea59",
+  "bytes": 21309,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8a0abb965d7c093feea90568b5c6e4c4",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8b089eab3f1e9532fa255c5b983c84bf",
+  "path": "publishing_desk/thumbs-uploaded/8b089eab3f1e9532fa255c5b983c84bf.jpg",
+  "sha256": "4a1e2831edce890484a809bda2ab67df54058058e2de3d4cab26c8bab96021d0",
+  "bytes": 16289,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8b089eab3f1e9532fa255c5b983c84bf",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8b4eef2a16190e7bfc947de58415756d",
+  "path": "publishing_desk/thumbs-uploaded/8b4eef2a16190e7bfc947de58415756d.jpg",
+  "sha256": "bcf7694d4fc85179f5c111df8a109ec3695b65b3e07f5fecc64a70444f7f8c06",
+  "bytes": 17593,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8b4eef2a16190e7bfc947de58415756d",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8c784a58a2ed29778542888acaa044ca",
+  "path": "publishing_desk/thumbs-uploaded/8c784a58a2ed29778542888acaa044ca.jpg",
+  "sha256": "6b79e6b57e514ce745f89aa784217c433bec880a30c3dec1d2704d37212f7412",
+  "bytes": 30966,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8c784a58a2ed29778542888acaa044ca",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8d8ed321038fbf2079df3ea50f8b4119",
+  "path": "publishing_desk/thumbs-uploaded/8d8ed321038fbf2079df3ea50f8b4119.jpg",
+  "sha256": "1121d44f290faa3cedfefe9ff7d45d5580d864753f551d25a6265c04a4b0a7b6",
+  "bytes": 25620,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8d8ed321038fbf2079df3ea50f8b4119",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8ec58d6ae787da6b896ece550cd86723",
+  "path": "publishing_desk/thumbs-uploaded/8ec58d6ae787da6b896ece550cd86723.jpg",
+  "sha256": "7a651964ad1b7fde065c4583cff547b6a0b7bdac5b8a968d7c3478877db98f6f",
+  "bytes": 29297,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8ec58d6ae787da6b896ece550cd86723",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:8f383ce9ce282ae4a072b2bceb27efd2",
+  "path": "publishing_desk/thumbs-uploaded/8f383ce9ce282ae4a072b2bceb27efd2.jpg",
+  "sha256": "b0f7704e4e6394cdad55497669741c0c2a137092170af279cb12af1821587a5b",
+  "bytes": 30545,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/8f383ce9ce282ae4a072b2bceb27efd2",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:9023680ea40233e1ac601a5067a74540",
+  "path": "publishing_desk/thumbs-uploaded/9023680ea40233e1ac601a5067a74540.jpg",
+  "sha256": "00866252849161f622226e31eb61b01ba48dc83ca761f791cd0312e0d673aaf8",
+  "bytes": 24743,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/9023680ea40233e1ac601a5067a74540",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:91cde65d559eb111d318501e4d2e0017",
+  "path": "publishing_desk/thumbs-uploaded/91cde65d559eb111d318501e4d2e0017.jpg",
+  "sha256": "62fbbf2a5921d877c03636776095941027121ffe8a6f6f38f6cc83b517cdf35a",
+  "bytes": 22345,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/91cde65d559eb111d318501e4d2e0017",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:924ca1c0263da4cad89fd0ad138b0b06",
+  "path": "publishing_desk/thumbs-uploaded/924ca1c0263da4cad89fd0ad138b0b06.jpg",
+  "sha256": "76bcb20065fbeb9478c38f86f579b455923a66d73541b6bfa259c9beb34e61cd",
+  "bytes": 29152,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/924ca1c0263da4cad89fd0ad138b0b06",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:9355e8cbc4121efe4fb92ff91b52f80e",
+  "path": "publishing_desk/thumbs-uploaded/9355e8cbc4121efe4fb92ff91b52f80e.jpg",
+  "sha256": "71373a2d753fa8a6e8b0e634fb97ec097ad35390b824b545af472c98ddcd0940",
+  "bytes": 28265,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/9355e8cbc4121efe4fb92ff91b52f80e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:936987ae4eac7d1f6ee5dc81ce2af383",
+  "path": "publishing_desk/thumbs-uploaded/936987ae4eac7d1f6ee5dc81ce2af383.jpg",
+  "sha256": "f8d4b8567e45bf8bdffc36f4dca69e6635c7b46e0abae20552bf44d3271f2527",
+  "bytes": 17433,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/936987ae4eac7d1f6ee5dc81ce2af383",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:93fe11a7cfbe88d37abfa4d04a531550",
+  "path": "publishing_desk/thumbs-uploaded/93fe11a7cfbe88d37abfa4d04a531550.jpg",
+  "sha256": "3dd874babaa125d8f8f6fbd6c578f498def16cb5a34b88a0242e04d8782369c7",
+  "bytes": 21392,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/93fe11a7cfbe88d37abfa4d04a531550",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:96872a3acdd2ca1c430cb6c7bb51556e",
+  "path": "publishing_desk/thumbs-uploaded/96872a3acdd2ca1c430cb6c7bb51556e.jpg",
+  "sha256": "5a998d3a17497d211759d35f50d6db4c9f1fdd516691adf71461d9744a194b28",
+  "bytes": 21227,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/96872a3acdd2ca1c430cb6c7bb51556e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:972a51d0ecc97a4b60e5842d4f030dcd",
+  "path": "publishing_desk/thumbs-uploaded/972a51d0ecc97a4b60e5842d4f030dcd.jpg",
+  "sha256": "e564280a53df345b853d408cad1c579c10d53cbdb3626a6fbb61ee8c46cadebf",
+  "bytes": 17260,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/972a51d0ecc97a4b60e5842d4f030dcd",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:97bf088081e28dd0a3b8c25cf2871d62",
+  "path": "publishing_desk/thumbs-uploaded/97bf088081e28dd0a3b8c25cf2871d62.jpg",
+  "sha256": "f3b55d9dbb992c09693786bd8d5ae70382616c05065e09f4e19e08eccc1a6860",
+  "bytes": 31291,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/97bf088081e28dd0a3b8c25cf2871d62",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:98e66ce4e4a441210a1feb549ccd13ee",
+  "path": "publishing_desk/thumbs-uploaded/98e66ce4e4a441210a1feb549ccd13ee.jpg",
+  "sha256": "3be5ee3ef0185f8dc4683441bef85b5074cdc1784481de82414f4f699ab38e0b",
+  "bytes": 23834,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/98e66ce4e4a441210a1feb549ccd13ee",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:990edce2a5e7c26792e5d9dbe251546b",
+  "path": "publishing_desk/thumbs-uploaded/990edce2a5e7c26792e5d9dbe251546b.jpg",
+  "sha256": "92dc8c386a4be22670c72a0266f1d2b564654fa8c88ce6bc87d6c0fe172f1a6a",
+  "bytes": 17007,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/990edce2a5e7c26792e5d9dbe251546b",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:9a12dbb60c4e0677227449801093753c",
+  "path": "publishing_desk/thumbs-uploaded/9a12dbb60c4e0677227449801093753c.jpg",
+  "sha256": "7cec5b05da830dd3824a8a68b2cf719082521375fd0319187dc79df85a569d20",
+  "bytes": 29438,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/9a12dbb60c4e0677227449801093753c",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:9c7622837b717890c7833f1555e20da9",
+  "path": "publishing_desk/thumbs-uploaded/9c7622837b717890c7833f1555e20da9.jpg",
+  "sha256": "41ea4f0d77fcd17ab607f649279b41bca043de3b5dca480c05413d98c5f837e4",
+  "bytes": 29712,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/9c7622837b717890c7833f1555e20da9",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:9c8b11f6dcd5bc0283b532207b727153",
+  "path": "publishing_desk/thumbs-uploaded/9c8b11f6dcd5bc0283b532207b727153.jpg",
+  "sha256": "9891338a439fc2900a2afd1de3d03af059b68f136161e6f7ec14b07a15ad5c5a",
+  "bytes": 25530,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/9c8b11f6dcd5bc0283b532207b727153",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:9dbbf9d7e7d39e32d64b6f9405a4a603",
+  "path": "publishing_desk/thumbs-uploaded/9dbbf9d7e7d39e32d64b6f9405a4a603.jpg",
+  "sha256": "d8b37f920b0a217942527d1027ddf99fe00c66a3d06ea1b0be8d236b039fd039",
+  "bytes": 17650,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/9dbbf9d7e7d39e32d64b6f9405a4a603",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:9ed6c5884d5fa81cd32883e61d00de65",
+  "path": "publishing_desk/thumbs-uploaded/9ed6c5884d5fa81cd32883e61d00de65.jpg",
+  "sha256": "12588d6e5e45abf6a6bd32eea0ae98951954f1d922d9d15d537647579de76aba",
+  "bytes": 26251,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/9ed6c5884d5fa81cd32883e61d00de65",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:a1be9c9bb8c3e1222f962103658f5bf5",
+  "path": "publishing_desk/thumbs-uploaded/a1be9c9bb8c3e1222f962103658f5bf5.jpg",
+  "sha256": "128f4881b621a598cba9e4d673b179d82a5b1a9572afe3e4daf22871f3557f8a",
+  "bytes": 26505,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/a1be9c9bb8c3e1222f962103658f5bf5",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:a1c863c435c7143c2bc0b48e52981ba5",
+  "path": "publishing_desk/thumbs-uploaded/a1c863c435c7143c2bc0b48e52981ba5.jpg",
+  "sha256": "a91a74fb8b76215b80d5e00968a4bc5cdc34998d46e694c0e3f4dc4de6cf307f",
+  "bytes": 18743,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/a1c863c435c7143c2bc0b48e52981ba5",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:a48ba27b03bde8e2ab8568aed5f6e0af",
+  "path": "publishing_desk/thumbs-uploaded/a48ba27b03bde8e2ab8568aed5f6e0af.jpg",
+  "sha256": "a13a65fcc7100bffbef7248ef9b254d87c75afddf03ec8474d2da6c8b3e6e331",
+  "bytes": 25615,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/a48ba27b03bde8e2ab8568aed5f6e0af",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:a61f0ce96fd867d98b1b9e7c14868eef",
+  "path": "publishing_desk/thumbs-uploaded/a61f0ce96fd867d98b1b9e7c14868eef.jpg",
+  "sha256": "70364f8ff89572152e698878f5223d319f7a9490a0cbf285350e1286dcfc2944",
+  "bytes": 27406,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/a61f0ce96fd867d98b1b9e7c14868eef",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:a735d0da820108c10f0c6ea1fc802376",
+  "path": "publishing_desk/thumbs-uploaded/a735d0da820108c10f0c6ea1fc802376.jpg",
+  "sha256": "8712ae8bf44bd2cdb30826c428b5d6b7fa3760b969ffc66c1f2a9859535e987d",
+  "bytes": 15757,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/a735d0da820108c10f0c6ea1fc802376",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:aa48651c4a9ffe1650e7c1b0408618b1",
+  "path": "publishing_desk/thumbs-uploaded/aa48651c4a9ffe1650e7c1b0408618b1.jpg",
+  "sha256": "ae6faac179aee81c3c6612f30c2defbc0b434fcb95223343ec11ccd4870a2b81",
+  "bytes": 31902,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/aa48651c4a9ffe1650e7c1b0408618b1",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:aba79ed5a5147a4c680d6b62a501fd94",
+  "path": "publishing_desk/thumbs-uploaded/aba79ed5a5147a4c680d6b62a501fd94.jpg",
+  "sha256": "61799e3466af070293abe9f62237494d8eed36e33f4607aed9bf5b058397798c",
+  "bytes": 16760,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/aba79ed5a5147a4c680d6b62a501fd94",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:ad97096e8ae5a39735912cecc4a70d37",
+  "path": "publishing_desk/thumbs-uploaded/ad97096e8ae5a39735912cecc4a70d37.jpg",
+  "sha256": "dc48eaa2d28c7e1b659d62d7f5687ff95c75e9d93d913f7106f3336d1d6480d3",
+  "bytes": 26565,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/ad97096e8ae5a39735912cecc4a70d37",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:adaf063c1a6e6712db91e7a3c38daf98",
+  "path": "publishing_desk/thumbs-uploaded/adaf063c1a6e6712db91e7a3c38daf98.jpg",
+  "sha256": "6c9cf00082b1257f4d40f36f336591dde00473138b7796c9fa5717025c8eaa05",
+  "bytes": 16725,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/adaf063c1a6e6712db91e7a3c38daf98",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:b494c9a7e6acd14d7fb9b9296f2040e5",
+  "path": "publishing_desk/thumbs-uploaded/b494c9a7e6acd14d7fb9b9296f2040e5.jpg",
+  "sha256": "a6251fb41b417e640c192f8cc6e2a3c4ea30b0b8002ddc907ad3174583813b68",
+  "bytes": 30749,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/b494c9a7e6acd14d7fb9b9296f2040e5",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:b55a7228937cfb0f138a6776ad9e2d66",
+  "path": "publishing_desk/thumbs-uploaded/b55a7228937cfb0f138a6776ad9e2d66.jpg",
+  "sha256": "22ab7ce5820494dd82784acf3688f528ffe0e2802cf7e36027944e9b8b5a897e",
+  "bytes": 31230,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/b55a7228937cfb0f138a6776ad9e2d66",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:b61ad90de4380baa1c1e80a03c28fd9d",
+  "path": "publishing_desk/thumbs-uploaded/b61ad90de4380baa1c1e80a03c28fd9d.jpg",
+  "sha256": "91949a73125fad33ae22bbb706894fc5ea16abb81ccdfee4c5d493e1252d0a6b",
+  "bytes": 31950,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/b61ad90de4380baa1c1e80a03c28fd9d",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:b9523e4b914c8e12850292cf7884dade",
+  "path": "publishing_desk/thumbs-uploaded/b9523e4b914c8e12850292cf7884dade.jpg",
+  "sha256": "22b75ae426be35227ac5d56d67d41087e27750eb55d375b3d9fb7f1a6b0b88ba",
+  "bytes": 29063,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/b9523e4b914c8e12850292cf7884dade",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:bc28d2244986e161f6b8e10022ac7d6b",
+  "path": "publishing_desk/thumbs-uploaded/bc28d2244986e161f6b8e10022ac7d6b.jpg",
+  "sha256": "93df9dcd1f7f60ca00aa125044cd3dc5175af808b9bbda00548f2f76efaaab52",
+  "bytes": 30843,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/bc28d2244986e161f6b8e10022ac7d6b",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:bc6523ab51dcedc7d3ee6368ec05f6da",
+  "path": "publishing_desk/thumbs-uploaded/bc6523ab51dcedc7d3ee6368ec05f6da.jpg",
+  "sha256": "6e13cdc3529eafd05663cfffd66c16f0704fc317e930dc1df7adb47af63c7ed9",
+  "bytes": 27268,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/bc6523ab51dcedc7d3ee6368ec05f6da",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:bfd8a7acaa6e2a7b4cfe7e8e6353cea8",
+  "path": "publishing_desk/thumbs-uploaded/bfd8a7acaa6e2a7b4cfe7e8e6353cea8.jpg",
+  "sha256": "4b970e6e22456202c0ab6d97c02ee5d4e600164ff316aa97d05bcb5194fac590",
+  "bytes": 29064,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/bfd8a7acaa6e2a7b4cfe7e8e6353cea8",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:c19c7fd3d93e2e5a50cc1e5a7f16c37e",
+  "path": "publishing_desk/thumbs-uploaded/c19c7fd3d93e2e5a50cc1e5a7f16c37e.jpg",
+  "sha256": "8d05603b228c393fb7584e952345794b16a7e6d9fe3e698bf756f5601debe321",
+  "bytes": 30792,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/c19c7fd3d93e2e5a50cc1e5a7f16c37e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:c3c66ec7e4621a57233e7ea787029524",
+  "path": "publishing_desk/thumbs-uploaded/c3c66ec7e4621a57233e7ea787029524.jpg",
+  "sha256": "d9eb1634c9147eb7597f0c0aa5f0c245ae9193bc7e5cf70193750b88bb51db41",
+  "bytes": 24354,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/c3c66ec7e4621a57233e7ea787029524",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:c4de3351df9d124b65e1481762f5b8a2",
+  "path": "publishing_desk/thumbs-uploaded/c4de3351df9d124b65e1481762f5b8a2.jpg",
+  "sha256": "f101983e4568d292a9ac8d348b83b12e8eb5ac73f49075f1ece7c3d45c99f44c",
+  "bytes": 28335,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/c4de3351df9d124b65e1481762f5b8a2",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:c6dc7f2c703dfeb8ae46d8819be120d9",
+  "path": "publishing_desk/thumbs-uploaded/c6dc7f2c703dfeb8ae46d8819be120d9.jpg",
+  "sha256": "1870fce7932a98a2ad9d208d838295cf7b22aac9a730b7c667051ea8f92c4d5c",
+  "bytes": 21982,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/c6dc7f2c703dfeb8ae46d8819be120d9",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:c8aadfb5fa583a9f83dfd52571d3c738",
+  "path": "publishing_desk/thumbs-uploaded/c8aadfb5fa583a9f83dfd52571d3c738.jpg",
+  "sha256": "1b76a7c16b25fcc9d3f498aa7adb9c08a53e7f0d4606a87db960e2b261e20b4a",
+  "bytes": 25018,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/c8aadfb5fa583a9f83dfd52571d3c738",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:ccf6767e37bfdc213aa1f61915b7c123",
+  "path": "publishing_desk/thumbs-uploaded/ccf6767e37bfdc213aa1f61915b7c123.jpg",
+  "sha256": "78e5fe90d6e5898d742581198ff47dff553e86db3846dff4edff701bd5e82ea5",
+  "bytes": 28115,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/ccf6767e37bfdc213aa1f61915b7c123",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:cddaa71a1d42f77d646cdc60a448d6c5",
+  "path": "publishing_desk/thumbs-uploaded/cddaa71a1d42f77d646cdc60a448d6c5.jpg",
+  "sha256": "fb6ca9d06cb83297c8d953ac093a1ddd5a4c2b5b4a12b6a4bc5e78fde50a0755",
+  "bytes": 22170,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/cddaa71a1d42f77d646cdc60a448d6c5",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:cf3eae20c5894aec332c619a62467400",
+  "path": "publishing_desk/thumbs-uploaded/cf3eae20c5894aec332c619a62467400.jpg",
+  "sha256": "ab3c4bcc76c19fba1f14a10077b3724c2077ce92b82606c5e6993b92567930ee",
+  "bytes": 31257,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/cf3eae20c5894aec332c619a62467400",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d167acccd784a2c77b320834eb3355c3",
+  "path": "publishing_desk/thumbs-uploaded/d167acccd784a2c77b320834eb3355c3.jpg",
+  "sha256": "9a35f7371d76fda4e0364884b4b144b2407acc4590fe43c2bf48722bc3b35843",
+  "bytes": 30252,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d167acccd784a2c77b320834eb3355c3",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d26dc9e1ceb86f18e54fb2c9120eb578",
+  "path": "publishing_desk/thumbs-uploaded/d26dc9e1ceb86f18e54fb2c9120eb578.jpg",
+  "sha256": "0421e01b202d36ea2fc5e888f2b17dbe3117dfd2df20211f11094af7909777f4",
+  "bytes": 26110,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d26dc9e1ceb86f18e54fb2c9120eb578",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d2b0594f20ce47da05566e32916a5496",
+  "path": "publishing_desk/thumbs-uploaded/d2b0594f20ce47da05566e32916a5496.jpg",
+  "sha256": "da5edaa6076e7f146b3e304fe4ead5de8b7950a1548f50adac546b8685784848",
+  "bytes": 28065,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d2b0594f20ce47da05566e32916a5496",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d3cfb45ea4361001767c1bd476045e02",
+  "path": "publishing_desk/thumbs-uploaded/d3cfb45ea4361001767c1bd476045e02.jpg",
+  "sha256": "707cf339eb5e373b354c104ba92f869191beb225f41dbf12f837b1e8ef6fa561",
+  "bytes": 28120,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d3cfb45ea4361001767c1bd476045e02",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d5c0ba078d1a274656c0e5696c5081bc",
+  "path": "publishing_desk/thumbs-uploaded/d5c0ba078d1a274656c0e5696c5081bc.jpg",
+  "sha256": "f066dff6ef21ba5a7041df4fc70ff224443d0c2c2ec61ffcf872b3168a09ea68",
+  "bytes": 30971,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d5c0ba078d1a274656c0e5696c5081bc",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d630764f9c100e5eb3871cffb35657ab",
+  "path": "publishing_desk/thumbs-uploaded/d630764f9c100e5eb3871cffb35657ab.jpg",
+  "sha256": "f2817113f650afa690ccd5bb14d5e575c11ec1e29140b8c5a80952a7512b5595",
+  "bytes": 28338,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d630764f9c100e5eb3871cffb35657ab",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d73c7d132f711afd18e5d43c8c78122d",
+  "path": "publishing_desk/thumbs-uploaded/d73c7d132f711afd18e5d43c8c78122d.jpg",
+  "sha256": "ab026617950c120a0550b6634bae0088c3b2f3638c9613e8acc00e3ed0c82366",
+  "bytes": 23586,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d73c7d132f711afd18e5d43c8c78122d",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:d96b28557bc8720213719398ece5cb1e",
+  "path": "publishing_desk/thumbs-uploaded/d96b28557bc8720213719398ece5cb1e.jpg",
+  "sha256": "93378504a8e7298099363a7b2b1dd75bd2ef57a65cf5095dc85c15977ccfcd28",
+  "bytes": 25183,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/d96b28557bc8720213719398ece5cb1e",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:dbef16482d034972a45ed035cf04edcc",
+  "path": "publishing_desk/thumbs-uploaded/dbef16482d034972a45ed035cf04edcc.jpg",
+  "sha256": "3936e5b032619832027e14eeec1dd3cd34bb6ae8f913078c86e480558110f553",
+  "bytes": 20959,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/dbef16482d034972a45ed035cf04edcc",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:dc69ee665ec0ab65d11ddd215354a676",
+  "path": "publishing_desk/thumbs-uploaded/dc69ee665ec0ab65d11ddd215354a676.jpg",
+  "sha256": "c36bb41186698d9ee8196bbfda002a8d604a6be5892c98182968336b59b9cc01",
+  "bytes": 29924,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/dc69ee665ec0ab65d11ddd215354a676",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:de8b4bfd2485ba0076c378c9544362d9",
+  "path": "publishing_desk/thumbs-uploaded/de8b4bfd2485ba0076c378c9544362d9.jpg",
+  "sha256": "253ac0b1cc84e3f52f083f2cb0b0a7eab0b8895e67e3e2405d4803691959f385",
+  "bytes": 17515,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/de8b4bfd2485ba0076c378c9544362d9",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e03775117950ffd74bae6502e7369c7b",
+  "path": "publishing_desk/thumbs-uploaded/e03775117950ffd74bae6502e7369c7b.jpg",
+  "sha256": "d2899a9975d27eeb806537a40e677cfd35b7defb815bf65e35849e78f7e3d325",
+  "bytes": 20524,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e03775117950ffd74bae6502e7369c7b",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e4d3544b7c0da23af47fe6e97681491c",
+  "path": "publishing_desk/thumbs-uploaded/e4d3544b7c0da23af47fe6e97681491c.jpg",
+  "sha256": "706d64fb8e76af4c021609f5ac9d6bfec1c7ecd29ce2947346003d3af679a451",
+  "bytes": 19827,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e4d3544b7c0da23af47fe6e97681491c",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e553471649aee3b77b4dfc076dad6e4c",
+  "path": "publishing_desk/thumbs-uploaded/e553471649aee3b77b4dfc076dad6e4c.jpg",
+  "sha256": "be9db121251c080fcb2520072b5f8aa8f06c93f466bf6dff968a24df14ad1f80",
+  "bytes": 30316,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e553471649aee3b77b4dfc076dad6e4c",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e6423e14e38ee96be45c3ffda8ca4932",
+  "path": "publishing_desk/thumbs-uploaded/e6423e14e38ee96be45c3ffda8ca4932.jpg",
+  "sha256": "a1c0965e1c8bcba095e952815836f17e4b64784816c274127033887bdc91fe5f",
+  "bytes": 22711,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e6423e14e38ee96be45c3ffda8ca4932",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e6645481b6e51672583479ffe6c874bc",
+  "path": "publishing_desk/thumbs-uploaded/e6645481b6e51672583479ffe6c874bc.jpg",
+  "sha256": "3a519691d4b1ba18f81871e3176d5ddd5e4e3e85ad918ebe679a3fba7828c593",
+  "bytes": 21598,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e6645481b6e51672583479ffe6c874bc",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e6dce829d1e7d3d63f6c74991640c5bf",
+  "path": "publishing_desk/thumbs-uploaded/e6dce829d1e7d3d63f6c74991640c5bf.jpg",
+  "sha256": "6edccbf1da2cb9a9fcfa286b6e713d15898608c94841ee0cdccf835bf66234b3",
+  "bytes": 18724,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e6dce829d1e7d3d63f6c74991640c5bf",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e6eef4f68b707c9af846240fcacec6d1",
+  "path": "publishing_desk/thumbs-uploaded/e6eef4f68b707c9af846240fcacec6d1.jpg",
+  "sha256": "c286ce42f4cfc0f4739024c487472e2388ff90a725c481800151cbffe13fd7e3",
+  "bytes": 17612,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e6eef4f68b707c9af846240fcacec6d1",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e8c59365531d10a51af7b88afec1bf06",
+  "path": "publishing_desk/thumbs-uploaded/e8c59365531d10a51af7b88afec1bf06.jpg",
+  "sha256": "27e045bf33362ff413a009ba22288406c5e14724814551a729604606a2ce639d",
+  "bytes": 12189,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e8c59365531d10a51af7b88afec1bf06",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e95509df998e18966753095bfa72f068",
+  "path": "publishing_desk/thumbs-uploaded/e95509df998e18966753095bfa72f068.jpg",
+  "sha256": "7206bd2ea3a68e0e7b060e31b3cefeb264e59a535f7a84162a22fb587c63768c",
+  "bytes": 27267,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e95509df998e18966753095bfa72f068",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:e9e20c9b885594125dc0a7408ab6729a",
+  "path": "publishing_desk/thumbs-uploaded/e9e20c9b885594125dc0a7408ab6729a.jpg",
+  "sha256": "1cb7242086109b4c73c2ad2e2e043910eec0203bdfd5bfacbded2b83463e0984",
+  "bytes": 22616,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/e9e20c9b885594125dc0a7408ab6729a",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:ed273f80c90704c422094537ee1d75ee",
+  "path": "publishing_desk/thumbs-uploaded/ed273f80c90704c422094537ee1d75ee.jpg",
+  "sha256": "b837360b338160fb29232412fc44e190e3d0fa5a7cc58d0394c4976219c82307",
+  "bytes": 32617,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/ed273f80c90704c422094537ee1d75ee",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:edcd418889bf2ec943c9d1edc12589dd",
+  "path": "publishing_desk/thumbs-uploaded/edcd418889bf2ec943c9d1edc12589dd.jpg",
+  "sha256": "998bce71b14ab84bcd6a99dde3ceca8413baa177fcc1d48b53266eff28bfac37",
+  "bytes": 20616,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/edcd418889bf2ec943c9d1edc12589dd",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:ee23dbc72f7d44b695c23bf83c4d77e6",
+  "path": "publishing_desk/thumbs-uploaded/ee23dbc72f7d44b695c23bf83c4d77e6.jpg",
+  "sha256": "a82e70b64be3e6e4492626657d8e03d74d75219351c69c353d8644a971f779d3",
+  "bytes": 19619,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/ee23dbc72f7d44b695c23bf83c4d77e6",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:f53d1ee568959c59b1c9c0d62328f5d8",
+  "path": "publishing_desk/thumbs-uploaded/f53d1ee568959c59b1c9c0d62328f5d8.jpg",
+  "sha256": "c1eeb9ab4d1ceec86eb773cf340784fd104ed635bd51236e6fcb224efa2cabba",
+  "bytes": 24426,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/f53d1ee568959c59b1c9c0d62328f5d8",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:f5f482a6d348f4e6b98419cce4c0e325",
+  "path": "publishing_desk/thumbs-uploaded/f5f482a6d348f4e6b98419cce4c0e325.jpg",
+  "sha256": "df8b3b6ca54f51e09510ec831bca195272f08b6e0c0206609504773ead4688b2",
+  "bytes": 24447,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/f5f482a6d348f4e6b98419cce4c0e325",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:f897de517799b1b37892914890a9fbbc",
+  "path": "publishing_desk/thumbs-uploaded/f897de517799b1b37892914890a9fbbc.jpg",
+  "sha256": "2a10b0eb1d3d33c7d48fbc54053efb8912222164806f75787a02bbf888004594",
+  "bytes": 29302,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/f897de517799b1b37892914890a9fbbc",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:fc2e10bcb739bc8c8417360466125254",
+  "path": "publishing_desk/thumbs-uploaded/fc2e10bcb739bc8c8417360466125254.jpg",
+  "sha256": "9d40ae7becac34feb74d28c89942618483de842432ad15ba9cff354a0cca72f6",
+  "bytes": 25426,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/fc2e10bcb739bc8c8417360466125254",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:fc4d0dcfe78ef38d02d1c91fa125054b",
+  "path": "publishing_desk/thumbs-uploaded/fc4d0dcfe78ef38d02d1c91fa125054b.jpg",
+  "sha256": "b9d011bdadb2c4618f8d44860304bf117be234e0bc41182bd2491f92a8928237",
+  "bytes": 27735,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/fc4d0dcfe78ef38d02d1c91fa125054b",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:fcd319a0b7ce8fe730b1285f46accc91",
+  "path": "publishing_desk/thumbs-uploaded/fcd319a0b7ce8fe730b1285f46accc91.jpg",
+  "sha256": "ef671ab5df2ce737306e63f3cdf510cd02cb4f950db616b8113c93f15c6b7693",
+  "bytes": 22733,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/fcd319a0b7ce8fe730b1285f46accc91",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:fd677f54b5bb06412b94eed6ca05ceb5",
+  "path": "publishing_desk/thumbs-uploaded/fd677f54b5bb06412b94eed6ca05ceb5.jpg",
+  "sha256": "24ca7801e648b7b869a4f7cfcb03bd08b2195cb6593e32c7ec8644c03583097c",
+  "bytes": 20712,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/fd677f54b5bb06412b94eed6ca05ceb5",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:blob:fd6cce4f9b5e53655344eee426d87afc",
+  "path": "publishing_desk/thumbs-uploaded/fd6cce4f9b5e53655344eee426d87afc.jpg",
+  "sha256": "3ce29a1ff4e0979fe99aeecfdc8eb306d7c7c720f22c8d482add3b66c091455b",
+  "bytes": 20917,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/_blob/fd6cce4f9b5e53655344eee426d87afc",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04a-primary-and-majors-A-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04a-primary-and-majors-A-yt.jpg",
+  "sha256": "8c3d6be28dfdc9d7ee19670ace39ac7819737234896fd2920063256ca24a1380",
+  "bytes": 56285,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04a-primary-and-majors-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04a-primary-and-majors-B-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04a-primary-and-majors-B-yt.jpg",
+  "sha256": "d8692f686ceb313fdb9653eedcde133b83c1fa6a8d11fb7bb573c14ab1c7a326",
+  "bytes": 52097,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04a-primary-and-majors-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04a-primary-and-majors-C-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04a-primary-and-majors-C-yt.jpg",
+  "sha256": "5c2b63f91e20d17fb7b74d7fd3a3f3f9938a0d04812beb8f4cd0a287e2084289",
+  "bytes": 60005,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04a-primary-and-majors-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04a-primary-and-majors-V.jpg",
+  "path": "publishing_desk/thumbs/cc-04a-primary-and-majors-V.jpg",
+  "sha256": "d48aec73816be20021ac91b95087d3cbe09939a7da6d45f265acf57ef7e96596",
+  "bytes": 35831,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04a-primary-and-majors-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04b-p-plus-p-minus-A-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04b-p-plus-p-minus-A-yt.jpg",
+  "sha256": "3c9ebebc602cdc686ebfb61fa098e12745a0643a09e12209815b9c65cb8163aa",
+  "bytes": 47340,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04b-p-plus-p-minus-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04b-p-plus-p-minus-B-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04b-p-plus-p-minus-B-yt.jpg",
+  "sha256": "418b0e19684e648ea6edd63daae7c2f949b850fde6f5a01d1819d707587810b1",
+  "bytes": 44752,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04b-p-plus-p-minus-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04b-p-plus-p-minus-C-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04b-p-plus-p-minus-C-yt.jpg",
+  "sha256": "16e7fb100f85cc72e96d97f018b5c2d771083732a59e2f6105524d720b833ed1",
+  "bytes": 49366,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04b-p-plus-p-minus-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04b-p-plus-p-minus-V.jpg",
+  "path": "publishing_desk/thumbs/cc-04b-p-plus-p-minus-V.jpg",
+  "sha256": "147330234235b9e0e780df4106743cff811fc9964ae404d7b67377f99330cf22",
+  "bytes": 29915,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04b-p-plus-p-minus-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04c-spot-A-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04c-spot-A-yt.jpg",
+  "sha256": "36df1dfe45371e87d4d042d9354c72957307c9554adaa2fdf6f3d7e73461da0a",
+  "bytes": 50681,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04c-spot-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04c-spot-B-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04c-spot-B-yt.jpg",
+  "sha256": "119aa6ae46dada6fd4967036f863b51f719543c77d1d0a857c1d8fc9fc9d1fc2",
+  "bytes": 47439,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04c-spot-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04c-spot-C-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04c-spot-C-yt.jpg",
+  "sha256": "a8f6beb75dceb712d8ea29860328f217809e5c85cb833f4b9ef902eb07209b9c",
+  "bytes": 53968,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04c-spot-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04c-spot-V.jpg",
+  "path": "publishing_desk/thumbs/cc-04c-spot-V.jpg",
+  "sha256": "ab56e9f461b8987fc7a2ce254bb20853bfecc90c492ccba44046ec2d7dde42fa",
+  "bytes": 32126,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04c-spot-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04d-chips-and-dots-A-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04d-chips-and-dots-A-yt.jpg",
+  "sha256": "1523f076c10fbd6ceb70f6e47525082c48d0bcb60b6a21521ee6a6e7918d0dd7",
+  "bytes": 52589,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04d-chips-and-dots-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04d-chips-and-dots-B-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04d-chips-and-dots-B-yt.jpg",
+  "sha256": "9d40b8822c9d5e7418ebb4ab87ff62657007697e95b5e51d12ba3396b411b875",
+  "bytes": 49313,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04d-chips-and-dots-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04d-chips-and-dots-C-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-04d-chips-and-dots-C-yt.jpg",
+  "sha256": "93099e30cdbaae50f9f5dbb55bf6a028a647b6da9373cc4d296aafdc5603e1ed",
+  "bytes": 55196,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04d-chips-and-dots-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-04d-chips-and-dots-V.jpg",
+  "path": "publishing_desk/thumbs/cc-04d-chips-and-dots-V.jpg",
+  "sha256": "99481228e951f89dda62137937f5f69bc60f1979f6e7df7f93b88602cbd4734d",
+  "bytes": 33411,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-04d-chips-and-dots-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-c1-first-ten-minutes-A-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-c1-first-ten-minutes-A-yt.jpg",
+  "sha256": "6b927a72391ad5ece9bd6acb2daf45f26136dbea8a74cd544b7d6adeed10b08c",
+  "bytes": 53720,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-c1-first-ten-minutes-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-c1-first-ten-minutes-B-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-c1-first-ten-minutes-B-yt.jpg",
+  "sha256": "eb136544ed32aa97ee995d777786f29eaa1776e2aeb069115ee2bde21fcdf64d",
+  "bytes": 50778,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-c1-first-ten-minutes-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-c1-first-ten-minutes-C-yt.jpg",
+  "path": "publishing_desk/thumbs/cc-c1-first-ten-minutes-C-yt.jpg",
+  "sha256": "f124062cb46c8bc4135cb9b4bab6bd3714b9351aeedb7a37338843186c651c5b",
+  "bytes": 60111,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-c1-first-ten-minutes-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/cc-c1-first-ten-minutes-V.jpg",
+  "path": "publishing_desk/thumbs/cc-c1-first-ten-minutes-V.jpg",
+  "sha256": "3689a08498f7f71e50037d634e4596c6ba2f8fb92586edfc17c9e77d915f34c3",
+  "bytes": 33619,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/cc-c1-first-ten-minutes-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-01-cushion-above-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-01-cushion-above-A-yt.jpg",
+  "sha256": "d90b25ff317fe41270fe162056c0e365710d21df72b5a57e2a5510817a385bf8",
+  "bytes": 55958,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-01-cushion-above-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-01-cushion-above-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-01-cushion-above-B-yt.jpg",
+  "sha256": "f8b83a4d7e1b8c0404f5df3001b741b196a2d2b47daa3498a9baea6086cadd84",
+  "bytes": 50588,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-01-cushion-above-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-01-cushion-above-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-01-cushion-above-C-yt.jpg",
+  "sha256": "a96131265a1006bb9df4922f4f500710a5fd5ea3fddf6e512b1db0db50dc4951",
+  "bytes": 64514,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-01-cushion-above-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-01-cushion-above-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-01-cushion-above-V.jpg",
+  "sha256": "66222ce4740e6d7e0d5b81116a2819b9f9b64e1e8c5c1ababa24e09bbd95d14f",
+  "bytes": 32674,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-01-cushion-above-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-02-cushion-below-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-02-cushion-below-A-yt.jpg",
+  "sha256": "1c4bb03e55ff97b79874a9bd466e2e1078d2eb898643fdf2780dbd433f1426ed",
+  "bytes": 55544,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-02-cushion-below-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-02-cushion-below-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-02-cushion-below-B-yt.jpg",
+  "sha256": "31493385c92f3c4769250a8c3c2a160cacc6d0625bcb8062f03d03a0c734af02",
+  "bytes": 50350,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-02-cushion-below-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-02-cushion-below-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-02-cushion-below-C-yt.jpg",
+  "sha256": "e54a658412374838a1bab2cbb7fdee56effb7eb3ab3150dbbf5ef68dcc1fcaa9",
+  "bytes": 63950,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-02-cushion-below-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-02-cushion-below-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-02-cushion-below-V.jpg",
+  "sha256": "e751a7f652805b3a2cc2f575999c0e157843aa849eaeaacb37f876436badfa56",
+  "bytes": 33878,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-02-cushion-below-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-03-accelerant-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-03-accelerant-A-yt.jpg",
+  "sha256": "6d3d1c5fe6670b09246b473150b62295a1567c77120e552f837cda0058e21562",
+  "bytes": 51990,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-03-accelerant-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-03-accelerant-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-03-accelerant-B-yt.jpg",
+  "sha256": "dd36d847373399ee4592d3c8de399c4ceeb906d9623a1e2bda43f7a669a392ea",
+  "bytes": 46360,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-03-accelerant-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-03-accelerant-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-03-accelerant-C-yt.jpg",
+  "sha256": "179808536994f6723ab5b73a178fd3372db37847a7fedffd832c185b652e7741",
+  "bytes": 59914,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-03-accelerant-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-03-accelerant-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-03-accelerant-V.jpg",
+  "sha256": "7a332a25f47f2602a95683e5394e9e1c5b76c3653b47964715db1cf3be675e64",
+  "bytes": 30327,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-03-accelerant-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-04-blocker-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-04-blocker-A-yt.jpg",
+  "sha256": "e9460b288605bc43a6b1988e9856623c19e3418090357473ed24baf8151c8a5f",
+  "bytes": 50520,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-04-blocker-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-04-blocker-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-04-blocker-B-yt.jpg",
+  "sha256": "f1586fda39edbc0e75d0f6221b95964d369ad22fcf4a6b3ca499de6d5ecfe180",
+  "bytes": 46608,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-04-blocker-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-04-blocker-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-04-blocker-C-yt.jpg",
+  "sha256": "24a736088abda9ff65c1e0a691f43c0d87e2b285c8799f5f5fd5526a30ab441a",
+  "bytes": 58206,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-04-blocker-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-04-blocker-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-04-blocker-V.jpg",
+  "sha256": "b41f231a3ba76465fe4782e588762a2d392149d09c4740289e0ad5e037520a52",
+  "bytes": 31061,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-04-blocker-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-05-trapdoor-stack-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-05-trapdoor-stack-A-yt.jpg",
+  "sha256": "bb2518f8f1cee6c43a10f0e40cff7f6ba494383033d7b5c39353985499a37ce9",
+  "bytes": 57865,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-05-trapdoor-stack-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-05-trapdoor-stack-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-05-trapdoor-stack-B-yt.jpg",
+  "sha256": "fd50eacc77c3675b5492e759080f37c76d08a14667579dcce559b9fcab4c0146",
+  "bytes": 52831,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-05-trapdoor-stack-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-05-trapdoor-stack-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-05-trapdoor-stack-C-yt.jpg",
+  "sha256": "7cd85e4de27cb447d7e46a3a000df67024493c55bf593430d4969daadff947c9",
+  "bytes": 65624,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-05-trapdoor-stack-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-05-trapdoor-stack-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-05-trapdoor-stack-V.jpg",
+  "sha256": "448c9d599c47898ae6a4190609f76338a194c4dc2a2e12a36b514306614d17ec",
+  "bytes": 35521,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-05-trapdoor-stack-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-06-launch-stack-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-06-launch-stack-A-yt.jpg",
+  "sha256": "0c7c78b862932e77018d4806d9fa596bc93fb6e9022bf09ef81829d8ac8952b5",
+  "bytes": 55912,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-06-launch-stack-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-06-launch-stack-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-06-launch-stack-B-yt.jpg",
+  "sha256": "5b36e70244eea47ccee7edca680d417f19971ac292d093e75ba60dcc18276f9b",
+  "bytes": 51513,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-06-launch-stack-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-06-launch-stack-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-06-launch-stack-C-yt.jpg",
+  "sha256": "ad28eb5b21a548bbb15550b63d60994458a94196d87afb2b312f87a193b9d7e8",
+  "bytes": 63149,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-06-launch-stack-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-06-launch-stack-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-06-launch-stack-V.jpg",
+  "sha256": "56b30bfc8ce75d264aff755a14532b7fbf17c4b5dee558e3606314e7a78c3fec",
+  "bytes": 34803,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-06-launch-stack-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-07-two-cushions-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-07-two-cushions-A-yt.jpg",
+  "sha256": "df0e68a4d2a53aba4f8804cfb927058bedd0da8b16edf27314b7fde251ff700f",
+  "bytes": 51758,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-07-two-cushions-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-07-two-cushions-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-07-two-cushions-B-yt.jpg",
+  "sha256": "56fa219596a7398783521ce7ae1e579c8048e2a2fd3cf880445d8a360066d4b5",
+  "bytes": 47645,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-07-two-cushions-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-07-two-cushions-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-07-two-cushions-C-yt.jpg",
+  "sha256": "eab04324d9bb9f337529fb294bfaa5c5410dd41fb34e16d2e47b88794b945829",
+  "bytes": 59348,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-07-two-cushions-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-07-two-cushions-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-07-two-cushions-V.jpg",
+  "sha256": "a38e0b6a97cdd79c89c5896bb470515b1b0960986ab15811c226bb678b7a8e2c",
+  "bytes": 30784,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-07-two-cushions-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-08-air-pocket-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-08-air-pocket-A-yt.jpg",
+  "sha256": "aad7a1b0c9c438955f8deab9d044efee009fb8af2c3e40ff5e7a3206a0e0967e",
+  "bytes": 52095,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-08-air-pocket-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-08-air-pocket-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-08-air-pocket-B-yt.jpg",
+  "sha256": "f935cf6bf11a58207e8790493f3e4f4f1850841fc07df624175a49bf8c83d640",
+  "bytes": 47973,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-08-air-pocket-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-08-air-pocket-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-08-air-pocket-C-yt.jpg",
+  "sha256": "406d5c04f94d87e8627d7243a5785cc256129871a441093d7d50edbec7d6cf2d",
+  "bytes": 59599,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-08-air-pocket-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-08-air-pocket-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-08-air-pocket-V.jpg",
+  "sha256": "62b25c289ce5e7b94a1d40afb1c16eaa6766adb99197144bef0d7832ffed3f66",
+  "bytes": 31745,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-08-air-pocket-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-09-wall-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-09-wall-A-yt.jpg",
+  "sha256": "9cd796b55720b755f371e20a5f8ead4fdf3f8a3e8db0b27408ed709635d09cb6",
+  "bytes": 52547,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-09-wall-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-09-wall-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-09-wall-B-yt.jpg",
+  "sha256": "120af55c70a877f0988c5e60240eaa693d560aece997ef53615a36200eb1ec7c",
+  "bytes": 48153,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-09-wall-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-09-wall-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-09-wall-C-yt.jpg",
+  "sha256": "1d944325d65625243af3e5d67d2d6280296331a02fb2bd91ddee03e868cd9e6f",
+  "bytes": 59374,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-09-wall-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-09-wall-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-09-wall-V.jpg",
+  "sha256": "e9e68d92122f056d019e1512ce6ecf331c1ea6dfcf11a1dd4e52337221986ceb",
+  "bytes": 29047,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-09-wall-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-10-pin-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-10-pin-A-yt.jpg",
+  "sha256": "d56784f2f116a053aa279884e7ae5b466bd79e3022c66c9de05e4f36be938f44",
+  "bytes": 51616,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-10-pin-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-10-pin-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-10-pin-B-yt.jpg",
+  "sha256": "84d7545910ccd0c5e84804e5ef62d13debd33318d0beade65d9271a52ceddae5",
+  "bytes": 47995,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-10-pin-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-10-pin-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-10-pin-C-yt.jpg",
+  "sha256": "133bca1779c6d348400bf32fe3e4c1dc81c57fe3353ec3220bec96858566da98",
+  "bytes": 57624,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-10-pin-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-10-pin-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-10-pin-V.jpg",
+  "sha256": "50f59a19cc5e0dbbe3964f9e9b52d943c72c9d0c681639b041b617fb9586fba1",
+  "bytes": 32247,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-10-pin-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c1-ladder-order-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-c1-ladder-order-A-yt.jpg",
+  "sha256": "c95c2cf099b79c638efb1c077352a797c157040569936b8b4042fb2cb28eedd5",
+  "bytes": 58153,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c1-ladder-order-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c1-ladder-order-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-c1-ladder-order-B-yt.jpg",
+  "sha256": "45fc22e353b58fe5ae73f62af51577d94e46dc47150ceb0e00edc8596a485ea3",
+  "bytes": 54427,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c1-ladder-order-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c1-ladder-order-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-c1-ladder-order-C-yt.jpg",
+  "sha256": "7d27527b3752ac2ff93dd030f912818216c5c4fa89ca6ecc4f3267251d47f10b",
+  "bytes": 61794,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c1-ladder-order-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c1-ladder-order-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-c1-ladder-order-V.jpg",
+  "sha256": "f9313d4d051c4cf9e3176d553d288fd5c9d4602e09f65a5ceb3812ac0d56ef67",
+  "bytes": 36453,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c1-ladder-order-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c2-before-you-act-A-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-c2-before-you-act-A-yt.jpg",
+  "sha256": "8d04f4fee45b9d36715fe0533b51895f6a18bb09008f080ca9cc1bcc216a70f3",
+  "bytes": 58007,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c2-before-you-act-A-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c2-before-you-act-B-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-c2-before-you-act-B-yt.jpg",
+  "sha256": "ac52abdb57359d7d5555ed416b99d86a6376569ca63fff3c705d39ce1289df1a",
+  "bytes": 55370,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c2-before-you-act-B-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c2-before-you-act-C-yt.jpg",
+  "path": "publishing_desk/thumbs/rtb-c2-before-you-act-C-yt.jpg",
+  "sha256": "0add1c0b588314085f8ff4ff980184ace6299548c7bf7be869de6167a141b28b",
+  "bytes": 58429,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c2-before-you-act-C-yt.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "publishing_desk:thumbs/rtb-c2-before-you-act-V.jpg",
+  "path": "publishing_desk/thumbs/rtb-c2-before-you-act-V.jpg",
+  "sha256": "db535e87e05d2282178c491bcb46a0c6ecfeba4626dee9342556239b1ebd4b4b",
+  "bytes": 36661,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/fc0942ee-7ad3-4eda-b4dd-af63e61297b9/thumbs/rtb-c2-before-you-act-V.jpg",
+  "kind": "thumbnail"
+ },
+ {
+  "asset_id": "template_studio:inline:SAMPLE_STILL",
+  "path": "template_studio/sample-still.jpg",
+  "sha256": "a8603cb2e08c848117120dcde3d05dba53018f0974432099c396c2895b726879",
+  "bytes": 223314,
+  "mime": "image/jpeg",
+  "source": "https://claude.ai/code/artifact/9a68b78e-6f92-4ae6-8fbf-a2f25ff864e7 (inline in the page, SAMPLE_STILL)",
+  "kind": "still"
+ }
+]
